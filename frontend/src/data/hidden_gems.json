@@ -1,0 +1,356 @@
+[
+  {
+    "id": "mawphanlur-meghalaya",
+    "name": "Mawphanlur Village",
+    "state": "Meghalaya",
+    "description": "A tranquil village in the West Khasi Hills dotted with seven rolling hills and seven mirror-like natural ponds.",
+    "why_worth_visiting": "Untouched by tourist crowds; waking up to mist drifting over tranquil ponds, kayaking in silence, and walking on mossy hilltops feels like stepping into a storybook.",
+    "activities": [
+      "Pond Kayaking",
+      "Ridge Hill Walks",
+      "Stargazing",
+      "Local Khasi Homestay Feasts"
+    ],
+    "accessibility": "68 km from Shillong; requires taking a quiet branch road off the Guwahati-Nongstoin highway.",
+    "approximate_budget": "₹1,500 - ₹2,800 / day",
+    "responsible_tourism": "Keep audio noise minimal; avoid disturbing livestock grazing peacefully on pond shores."
+  },
+  {
+    "id": "dzuleke-nagaland",
+    "name": "Dzuleke Eco Village",
+    "state": "Nagaland",
+    "description": "An eco-village where the Angami community lives in total harmony with nature, with an underground river and forest canopy.",
+    "why_worth_visiting": "Villagers banned chemical fertilizers, hunting, and logging decades ago. The community pools homestay income to support village elders and education.",
+    "activities": [
+      "Underground Stream Trail",
+      "Traditional Angami Woodcraft",
+      "Organic Forest Foraging",
+      "Canopy Hammock Resting"
+    ],
+    "accessibility": "35 km from Kohima past Khonoma; unpaved forest road best suited for SUVs.",
+    "approximate_budget": "₹1,800 - ₹3,200 / day",
+    "responsible_tourism": "10% of every homestay fee goes to community school funds. No packaged plastics allowed."
+  },
+  {
+    "id": "mechuka-arunachal",
+    "name": "Mechuka (Menchukha)",
+    "state": "Arunachal Pradesh",
+    "description": "Arunachal's hidden 'Shangri-La' valley surrounded by snow mountains, wild horses, and the 400-year-old Samten Yongcha monastery.",
+    "why_worth_visiting": "Dramatic fairytale scenery comparable to Switzerland but steeped in authentic Memba Buddhist traditions with zero mass tourism.",
+    "activities": [
+      "Monastery Meditation",
+      "Hanging Bridge Walks",
+      "Trekking to Hanuman Peak",
+      "Millet Butter Tea Tasting"
+    ],
+    "accessibility": "10-12 hours drive by SUV from Pasighat or Aalo. Requires Inner Line Permit.",
+    "approximate_budget": "₹2,500 - ₹4,800 / day",
+    "responsible_tourism": "Stay exclusively in family homestays to directly support the remote border community."
+  },
+  {
+    "id": "nongkhnum-island-meghalaya",
+    "name": "Nongkhnum River Island",
+    "state": "Meghalaya",
+    "description": "The second-largest river island in Asia, featuring white sandy river beaches, whispering pine trees, and Weinia waterfalls.",
+    "why_worth_visiting": "Offers the sensation of an untouched seaside beach surrounded by rolling pine highlands and sparkling river rapids.",
+    "activities": [
+      "River Sand Beach Camping",
+      "Swimming in Quiet Inlets",
+      "Hiking around Weinia Falls",
+      "Wilderness Picnicking"
+    ],
+    "accessibility": "15 km from Nongstoin; 110 km from Shillong.",
+    "approximate_budget": "₹1,200 - ₹2,500 / day",
+    "responsible_tourism": "Pack out all rubbish; no permanent trash bins exist on the remote sandy island."
+  },
+  {
+    "id": "anini-arunachal",
+    "name": "Anini & Dri Valley",
+    "state": "Arunachal Pradesh",
+    "description": "The remote highland frontier of the Idu Mishmi tribe, blessed with misty meadows and high-altitude turquoise glacial lakes.",
+    "why_worth_visiting": "Unfettered wilderness and the Seven Lakes Trek, which is rapidly being hailed as the most pristine alpine trek in the Eastern Himalayas.",
+    "activities": [
+      "Seven Lakes Alpine Trek",
+      "Idu Mishmi Animist Lore",
+      "Riverside Campfires",
+      "Birdwatching"
+    ],
+    "accessibility": "220 km from Roing along the Trans-Arunachal Highway.",
+    "approximate_budget": "₹2,800 - ₹5,500 / day",
+    "responsible_tourism": "Respect sacred rocks and lakes considered resting grounds of spirits in local Mishmi animism."
+  },
+  {
+    "id": "chabimura-tripura",
+    "name": "Chabimura (The Amazon of Tripura)",
+    "state": "Tripura",
+    "description": "Ancient 15th-century rock carvings of Mahishasuramardini carved high on vertical cliffs rising straight out of the Gomati river canyon.",
+    "why_worth_visiting": "Cruising along the jungle-choked gorge feels like an Indiana Jones expedition through untouched primeval forests.",
+    "activities": [
+      "River Canyon Boat Safari",
+      "Cliff Carving Inspection",
+      "Exploring Limestone Caves"
+    ],
+    "accessibility": "80 km from Agartala; boats depart from Amarpur.",
+    "approximate_budget": "₹1,500 - ₹3,000 / day",
+    "responsible_tourism": "Do not touch or deface the ancient rock carvings; support local boat operators."
+  },
+  {
+    "id": "chopta-valley-sikkim",
+    "name": "Chopta Valley & Thangu",
+    "state": "Sikkim",
+    "district": "North Sikkim",
+    "description": "A pristine alpine valley at 13,200 ft where meandering snow streams weave through alpine meadows and rhododendron scrub.",
+    "why_worth_visiting": "En route to Gurudongmar, most vehicles bypass Chopta Valley without stopping, leaving its quiet alpine streams and yaks blissfully undisturbed.",
+    "activities": [
+      "River Meander Walking",
+      "Spotting Tibetan Wild Ass (Kiang)",
+      "High Alpine Photography"
+    ],
+    "accessibility": "30 km north of Lachen on the way to Gurudongmar.",
+    "approximate_budget": "₹2,000 - ₹4,000 / day",
+    "responsible_tourism": "Walk only on designated meadow trails to avoid trampling fragile sub-arctic alpine tundra."
+  },
+  {
+    "id": "jatinga-assam",
+    "name": "Jatinga Bird Observatory",
+    "state": "Assam",
+    "district": "Dima Hasao",
+    "description": "A tranquil village in the Borail hills famous for the intriguing phenomenon of birds landing in fog during moonless post-monsoon nights.",
+    "why_worth_visiting": "Beyond the bird phenomenon, Jatinga is a lovely hill haven with cool mountain breezes, orange orchards, and warm Jaintia tribal culture.",
+    "activities": [
+      "Bird Watch Tower",
+      "Orange Grove Walks",
+      "Trek to Borail Peak",
+      "Haflong Lake Boating"
+    ],
+    "accessibility": "9 km from Haflong town in Dima Hasao.",
+    "approximate_budget": "₹1,500 - ₹3,000 / day",
+    "responsible_tourism": "The village has completely transitioned from historical bird netting to wildlife protection; support local conservation guides."
+  },
+  {
+    "id": "andro-manipur",
+    "name": "Andro Heritage Village",
+    "state": "Manipur",
+    "district": "Imphal East",
+    "description": "A living heritage village safeguarding a centuries-old sacred flame and coiled clay pottery.",
+    "why_worth_visiting": "Provides an extraordinary window into pre-Hindu Meitei animism and Sanamahi traditions rarely understood by mainstream tourists.",
+    "activities": [
+      "Viewing the Eternal Flame",
+      "Traditional Coiled Pottery",
+      "Mutua Cultural Museum Tour"
+    ],
+    "accessibility": "25 km east of Imphal city.",
+    "approximate_budget": "₹1,200 - ₹2,500 / day",
+    "responsible_tourism": "Photography inside the sacred fire sanctum is strictly prohibited."
+  },
+  {
+    "id": "reiek-mizoram",
+    "name": "Reiek Tlang",
+    "state": "Mizoram",
+    "district": "Mamit",
+    "description": "A soaring cliff-face peak at 1,548m overlooking the verdant rolling hills of Mizoram and the plains of Bangladesh.",
+    "why_worth_visiting": "The hike is gentle yet rewards trekkers with breathtaking panoramic drop-offs and a beautifully maintained traditional Mizo chieftain village.",
+    "activities": [
+      "Cliff Edge Trekking",
+      "Chieftain Village Architecture Tour",
+      "Birdwatching"
+    ],
+    "accessibility": "30 km from Aizawl.",
+    "approximate_budget": "₹1,500 - ₹3,000 / day",
+    "responsible_tourism": "Carry all water bottles back to the resort base; keep the mountain pristine."
+  },
+  {
+    "id": "panimur-waterfalls-assam",
+    "name": "Panimur Falls (Niagara of Assam)",
+    "state": "Assam",
+    "district": "Dima Hasao",
+    "description": "The Kopili River plunging in a dramatic wide cascade over massive limestone rocks in a roaring torrent of milky water.",
+    "why_worth_visiting": "A breathtaking natural spectacle far away from crowded tourist circuits, revered by the local Dimasa community.",
+    "activities": [
+      "River Rapids Photography",
+      "Limestone Rock Exploration",
+      "Dimasa Village Interaction"
+    ],
+    "accessibility": "120 km from Diphu or 140 km from Nagaon.",
+    "approximate_budget": "₹1,500 - ₹3,200 / day",
+    "responsible_tourism": "Do not attempt to swim near the falls as the Kopili river currents are treacherous."
+  },
+  {
+    "id": "sangti-valley-arunachal",
+    "name": "Sangti Valley",
+    "state": "Arunachal Pradesh",
+    "district": "West Kameng",
+    "description": "A tranquil mountain valley along the Sangti river, filled with kiwi orchards, stone Monpa cottages, and wintering black-necked cranes.",
+    "why_worth_visiting": "Far more peaceful than Dirang town; walking along the stony riverbed among grazing horses and apple trees provides ultimate relaxation.",
+    "activities": [
+      "Black-necked Crane Spotting",
+      "Organic Kiwi Tasting",
+      "Riverside Pebble Walks",
+      "Camping"
+    ],
+    "accessibility": "15 km from Dirang town on the road to Tawang.",
+    "approximate_budget": "₹2,000 - ₹4,000 / day",
+    "responsible_tourism": "Observe black-necked cranes from a respectful distance using binoculars; never flush them."
+  },
+  {
+    "id": "kongthong-whistling-village",
+    "name": "Kongthong Whistling Village",
+    "state": "Meghalaya",
+    "district": "East Khasi Hills",
+    "description": "A magical village where every child is assigned a unique melodic tune (Jingrwai Iawbei) as their name by their mother.",
+    "why_worth_visiting": "To experience one of the rarest living intangible cultural heritages on Earth, where villagers communicate across mountain ridges through song.",
+    "activities": [
+      "Listening to Melodic Whistling Tunes",
+      "Living Root Bridge Hike",
+      "Khasi Bamboo Craft Interaction"
+    ],
+    "accessibility": "55 km from Shillong; mountain roads require confident driving.",
+    "approximate_budget": "₹1,800 - ₹3,500 / day",
+    "responsible_tourism": "Treat the musical naming traditions with dignity; do not treat villagers like exhibits."
+  },
+  {
+    "id": "krem-puri-cave-meghalaya",
+    "name": "Krem Puri Sandstone Cave",
+    "state": "Meghalaya",
+    "district": "East Khasi Hills",
+    "description": "The longest sandstone cave in the world (over 24.5 km of mapped passages), containing dinosaur fossils and subterranean pools.",
+    "why_worth_visiting": "A subterranean wonderland for speleology enthusiasts and geology lovers looking beyond typical tourist caves.",
+    "activities": [
+      "Caving with Certified Guides",
+      "Fossil Inspection",
+      "Underground River Walks"
+    ],
+    "accessibility": "Near Laitsohum village, approx 80 km from Shillong.",
+    "approximate_budget": "₹2,500 - ₹5,000 / day",
+    "responsible_tourism": "Only enter with certified caving guides and helmets; never break or touch stalactites."
+  },
+  {
+    "id": "phawngpui-sangau-mizoram",
+    "name": "Sangau & Phawngpui Trail",
+    "state": "Mizoram",
+    "district": "Lawngtlai",
+    "description": "The base village under Mizoram's highest peak, surrounded by high cliffs, Blyth's tragopans, and sea-of-clouds sunsets.",
+    "why_worth_visiting": "A remote mountain frontier where traditional Mizo village hospitality remains completely uncommercialized.",
+    "activities": [
+      "Blue Mountain Ascents",
+      "Orchid Photography",
+      "Sunset Over Myanmar Chin Hills"
+    ],
+    "accessibility": "290 km south of Aizawl; full day journey by shared Sumo or private 4WD.",
+    "approximate_budget": "₹2,000 - ₹4,500 / day",
+    "responsible_tourism": "Hire village guides from Sangau to support local youth livelihood."
+  },
+  {
+    "id": "khonoma-nature-reserve",
+    "name": "Khonoma Nature & Tragopan Sanctuary",
+    "state": "Nagaland",
+    "district": "Kohima",
+    "description": "Community-conserved forest spanning 20 sq km, created entirely by tribal resolution to protect rare Himalayan wildlife.",
+    "why_worth_visiting": "A global pioneer in community-driven forest conservation that inspired villages across Nagaland to abandon hunting.",
+    "activities": [
+      "Forest Birding Walks",
+      "Alder Tree Agroforestry Tour",
+      "Traditional Angami Archery"
+    ],
+    "accessibility": "20 km from Kohima.",
+    "approximate_budget": "₹1,800 - ₹3,500 / day",
+    "responsible_tourism": "Zero hunting and zero littering strictly enforced by the village youth council."
+  },
+  {
+    "id": "jampui-hills-tripura",
+    "name": "Jampui Hills Vanghmun",
+    "state": "Tripura",
+    "district": "North Tripura",
+    "description": "Tripura's quiet highland ridge village inhabited by the Lushai Mizo community, famous for orange gardens and sunset views.",
+    "why_worth_visiting": "Experience the pleasant coolness of hill life in Tripura with clean streets, sweet citrus orchards, and views extending into Bangladesh and Mizoram.",
+    "activities": [
+      "Orange Harvesting Walks",
+      "Betlingshib Peak Hike",
+      "Village Choir Sessions"
+    ],
+    "accessibility": "220 km from Agartala; best reached via Dharmanagar.",
+    "approximate_budget": "₹1,500 - ₹3,200 / day",
+    "responsible_tourism": "Purchase directly from farmers at local village cooperative stands."
+  },
+  {
+    "id": "tso-lhamo-lake-sikkim",
+    "name": "Tso Lhamo Lake (Cholamu)",
+    "state": "Sikkim",
+    "district": "North Sikkim",
+    "description": "The highest lake in India (17,490 ft) and source of the Teesta River, surrounded by the barren Trans-Himalayan Tibetan plateau.",
+    "why_worth_visiting": "A stark, extraterrestrial landscape where extreme altitude meets ethereal stillness just 4 km from Tibet.",
+    "activities": [
+      "Extreme High-Altitude Photography",
+      "Teesta Source Inspection",
+      "Spotting Migratory Brahminy Ducks"
+    ],
+    "accessibility": "Accessible via specialized army permit beyond Gurudongmar Lake.",
+    "approximate_budget": "₹3,500 - ₹7,000 / day",
+    "responsible_tourism": "Extremely fragile high-altitude ecosystem; never leave vehicle tracks off designated gravel roads."
+  },
+  {
+    "id": "deomali-hills-arunachal",
+    "name": "Deomali & Nocte Heritage",
+    "state": "Arunachal Pradesh",
+    "district": "Tirap",
+    "description": "Rolling tea-clad hills and dense rainforests in southeastern Arunachal, home to the Nocte tribe's wood-carving masters.",
+    "why_worth_visiting": "Completely off the regular tourist circuit, showcasing centuries-old Nocte chiefdom traditions and forest river spots.",
+    "activities": [
+      "Nocte Woodcarving Workshops",
+      "River Angling",
+      "Tea Plantation Stroll"
+    ],
+    "accessibility": "50 km from Dibrugarh, Assam.",
+    "approximate_budget": "₹2,000 - ₹4,000 / day",
+    "responsible_tourism": "Special permits required; respect village councils and customary laws."
+  },
+  {
+    "id": "thang-nagaland",
+    "name": "Shengha Chingnyu & Mon Hinterland",
+    "state": "Nagaland",
+    "district": "Mon",
+    "description": "Ancient Konyak village with colossal carved wooden log drums and the original multi-pillar residence of the hereditary Angh.",
+    "why_worth_visiting": "Provides an authentic glimpse of Konyak tribal culture without the festival commercialization seen in tourist hotspots.",
+    "activities": [
+      "Viewing Ancient Skulls & War Regalia",
+      "Log Drum Beats",
+      "Handmade Beaded Jewelry"
+    ],
+    "accessibility": "18 km from Mon town.",
+    "approximate_budget": "₹2,200 - ₹4,500 / day",
+    "responsible_tourism": "Ask the Angh's elders for blessings before entering sacred clan grounds."
+  },
+  {
+    "id": "khecheopalri-secret-ridge-sikkim",
+    "name": "Khecheopalri Secret Ridge & Monastery",
+    "state": "Sikkim",
+    "district": "Gyalshing",
+    "description": "The elevated prayer-flag ridge looking down upon the sacred footprint-shaped lake, where birds are said to carry away every fallen leaf.",
+    "why_worth_visiting": "While tourists visit the lake jetty, few hike the upper ridge trail through mossy oak forests to the quiet hermitage monastery above.",
+    "activities": [
+      "Ridge Meditation",
+      "Sacred Lake Birdwatching",
+      "Monastery Chants"
+    ],
+    "accessibility": "25 km from Pelling; 1.5-hour uphill forest hike.",
+    "approximate_budget": "₹1,500 - ₹3,200 / day",
+    "responsible_tourism": "Swimming or washing feet in the sacred lake is strictly forbidden by religious law."
+  },
+  {
+    "id": "kakochang-falls-assam",
+    "name": "Kakochang Waterfalls",
+    "state": "Assam",
+    "district": "Golaghat",
+    "category": "Nature",
+    "description": "A hidden jungle waterfall tumbling into clear emerald waters, hidden behind coffee and rubber plantations near Kaziranga.",
+    "why_worth_visiting": "A magnificent refreshing side excursion after early morning Kaziranga safaris, with zero crowded tour buses.",
+    "activities": [
+      "Jungle Stream Hiking",
+      "Coffee Plantation Walk",
+      "Refreshing Lagoon Dip"
+    ],
+    "accessibility": "13 km from Bokakhat near Kaziranga; 30-minute forest trek from vehicle point.",
+    "approximate_budget": "₹1,000 - ₹2,200 / day",
+    "responsible_tourism": "Do not leave plastic bottles or wrappers on the forest trail."
+  }
+]

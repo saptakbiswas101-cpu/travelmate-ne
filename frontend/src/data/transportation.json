@@ -1,0 +1,173 @@
+{
+  "airports": [
+    {
+      "name": "Lokpriya Gopinath Bordoloi International Airport (GAU)",
+      "city": "Guwahati",
+      "state": "Assam",
+      "type": "Major Gateway",
+      "connectivity": "Direct flights to Delhi, Mumbai, Kolkata, Bengaluru, Chennai, Singapore, Bangkok."
+    },
+    {
+      "name": "Maharaja Bir Bikram Airport (IXA)",
+      "city": "Agartala",
+      "state": "Tripura",
+      "type": "International / Major",
+      "connectivity": "Flights to Kolkata, Guwahati, Delhi, Bengaluru, Chittagong (upcoming)."
+    },
+    {
+      "name": "Bir Tikendrajit International Airport (IMF)",
+      "city": "Imphal",
+      "state": "Manipur",
+      "type": "Major Gateway",
+      "connectivity": "Direct connections to Delhi, Kolkata, Guwahati, Dimapur, Mandalay (charter)."
+    },
+    {
+      "name": "Donyi Polo Airport (HGI)",
+      "city": "Itanagar (Hollongi)",
+      "state": "Arunachal Pradesh",
+      "type": "Domestic Hub",
+      "connectivity": "Regular flights to Kolkata, Guwahati, Mumbai."
+    },
+    {
+      "name": "Lengpui Airport (AJL)",
+      "city": "Aizawl",
+      "state": "Mizoram",
+      "type": "Domestic Hub",
+      "connectivity": "Connections to Kolkata, Guwahati, Imphal, Shillong."
+    },
+    {
+      "name": "Dimapur Airport (DMU)",
+      "city": "Dimapur",
+      "state": "Nagaland",
+      "type": "Domestic Hub",
+      "connectivity": "Direct flights to Kolkata, Guwahati, Delhi."
+    },
+    {
+      "name": "Shillong Airport (Umroi - SHL)",
+      "city": "Shillong",
+      "state": "Meghalaya",
+      "type": "Regional Hub",
+      "connectivity": "Direct regional flights to Kolkata, Guwahati, Agartala, Dimapur."
+    },
+    {
+      "name": "Pakyong Airport (PYG)",
+      "city": "Pakyong (Gangtok)",
+      "state": "Sikkim",
+      "type": "High Altitude Hub",
+      "connectivity": "Seasonal flights to Kolkata and Delhi; Bagdogra (IXB) in WB serves as primary alternate."
+    },
+    {
+      "name": "Mohanbari Airport (DIB)",
+      "city": "Dibrugarh",
+      "state": "Assam",
+      "type": "Regional Hub",
+      "connectivity": "Crucial gateway for Eastern Arunachal (Pasighat, Roing) and Upper Assam."
+    },
+    {
+      "name": "Jorhat Airport (Rowriah - JRH)",
+      "city": "Jorhat",
+      "state": "Assam",
+      "type": "Regional Hub",
+      "connectivity": "Gateway to Majuli River Island and Kaziranga East."
+    }
+  ],
+  "railways": [
+    {
+      "name": "Guwahati Railway Station (GHY)",
+      "state": "Assam",
+      "role": "Primary Northeast Railway Junction",
+      "key_trains": "Rajdhani Express, Vande Bharat Express to NJP/Howrah, Saraighat Express."
+    },
+    {
+      "name": "Naharlagun Railway Station (NHLN)",
+      "state": "Arunachal Pradesh",
+      "role": "State Rail Gateway",
+      "key_trains": "Donyi Polo Express to Guwahati, Shatabdi Express to Guwahati, AC Express to Delhi."
+    },
+    {
+      "name": "Agartala Railway Station (AGTL)",
+      "state": "Tripura",
+      "role": "Broad Gauge Terminal",
+      "key_trains": "Tripura Sundari Express to Delhi, Humsafar Express to Bengaluru, Tejas Rajdhani to Delhi."
+    },
+    {
+      "name": "Dimapur Railway Station (DMU)",
+      "state": "Nagaland",
+      "role": "Primary Railhead for Nagaland & Manipur",
+      "key_trains": "Connected to major Indian metros via Guwahati."
+    },
+    {
+      "name": "New Jalpaiguri (NJP) & Rangpo (Upcoming)",
+      "state": "West Bengal / Sikkim",
+      "role": "Gateway to Sikkim",
+      "key_trains": "Sikkim rail link connecting Sevoke to Rangpo under advanced construction."
+    }
+  ],
+  "inner_line_permits": {
+    "arunachal_pradesh": {
+      "required_for_indians": true,
+      "required_for_foreigners": true,
+      "portal": "arunachalilp.gov.in",
+      "fees": "₹100 (Indians) / $30-50 PAP (Foreigners)",
+      "processing_time": "1 to 2 working days"
+    },
+    "nagaland": {
+      "required_for_indians": true,
+      "required_for_foreigners": false,
+      "portal": "ilp.nagaland.gov.in",
+      "fees": "₹50 - ₹100",
+      "processing_time": "1 working day (Foreigners only register with FRRO)"
+    },
+    "mizoram": {
+      "required_for_indians": true,
+      "required_for_foreigners": false,
+      "portal": "ilp.mizoram.gov.in",
+      "fees": "₹120",
+      "processing_time": "Instant to 1 day (Available at Lengpui Airport)"
+    },
+    "manipur": {
+      "required_for_indians": true,
+      "required_for_foreigners": false,
+      "portal": "manipurilponline.mn.gov.in",
+      "fees": "₹100",
+      "processing_time": "Instant to 24 hours"
+    },
+    "sikkim": {
+      "required_for_indians": "Only for protected borders (Nathu La, Tsomgo, Gurudongmar)",
+      "required_for_foreigners": "Restricted Area Permit (RAP) issued free on arrival at border checkpoints",
+      "portal": "sikkimtourism.gov.in"
+    }
+  },
+  "road_networks": [
+    {
+      "route": "Guwahati to Shillong",
+      "distance_km": 100,
+      "duration_hours": "2.5 - 3 hours",
+      "road_condition": "4-lane scenic mountain expressway (NH6). Excellent."
+    },
+    {
+      "route": "Shillong to Cherrapunji (Sohra)",
+      "distance_km": 54,
+      "duration_hours": "1.5 - 2 hours",
+      "road_condition": "Well-paved 2-lane scenic mountain highway."
+    },
+    {
+      "route": "Guwahati to Kaziranga National Park",
+      "distance_km": 215,
+      "duration_hours": "4 - 4.5 hours",
+      "road_condition": "4-lane NH715; smooth highway transit."
+    },
+    {
+      "route": "Siliguri / Bagdogra to Gangtok",
+      "distance_km": 115,
+      "duration_hours": "4 - 5 hours",
+      "road_condition": "NH10 along Teesta River. Prone to monsoon landslides, well maintained in winter."
+    },
+    {
+      "route": "Dimapur to Kohima",
+      "distance_km": 74,
+      "duration_hours": "2 - 2.5 hours",
+      "road_condition": "4-lane mountain highway (NH29). Good."
+    }
+  ]
+}

@@ -1,0 +1,1501 @@
+[
+  {
+    "id": "kaziranga-national-park",
+    "name": "Kaziranga National Park",
+    "state": "Assam",
+    "district": "Golaghat & Nagaon",
+    "category": "Wildlife",
+    "short_description": "UNESCO World Heritage Site harbouring two-thirds of the world's great one-horned rhinoceros population.",
+    "detailed_description": "Spanning lush grasslands along the Brahmaputra floodplain, Kaziranga is home to the world's highest density of tigers in protected areas, wild water buffaloes, Asian elephants, and hundreds of migratory bird species across four distinct safari ranges: Kohora, Bagori, Agaratoli, and Burapahar.",
+    "latitude": 26.5775,
+    "longitude": 93.1711,
+    "best_season": "November to April",
+    "duration": "2 to 3 Days",
+    "budget_range": "₹4,500 - ₹9,000 / day",
+    "activities": [
+      "Jeep Safari",
+      "Elephant Safari",
+      "Bird Watching",
+      "Orchid Park Visit",
+      "Assamese Cultural Evening"
+    ],
+    "accessibility": "Well-connected by NH715; 4.5 hours drive from Guwahati airport or 1.5 hours from Jorhat.",
+    "traveller_types": [
+      "Wildlife Enthusiasts",
+      "Families",
+      "Photographers",
+      "Nature Lovers"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1534567153574-2b12153a87f0?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Park closes during monsoons (May-October due to floods). Book morning safari slots weeks in advance during peak season."
+  },
+  {
+    "id": "majuli-island",
+    "name": "Majuli River Island",
+    "state": "Assam",
+    "district": "Majuli",
+    "category": "Cultural",
+    "short_description": "The world's largest inhabited freshwater river island, cradling Neo-Vaishnavite Satras and Mishing tribal hamlets.",
+    "detailed_description": "Surrounded by the mighty Brahmaputra river, Majuli is the spiritual epicenter of Assamese classical culture founded by Saint Srimanta Sankardeva in the 15th century. Visitors witness traditional mask-making at Natun Samaguri Satra, classical Sattriya dance, and peaceful Mishing village life on stilt houses (Chang Ghar).",
+    "latitude": 26.954,
+    "longitude": 94.2185,
+    "best_season": "October to March",
+    "duration": "2 to 3 Days",
+    "budget_range": "₹2,000 - ₹4,500 / day",
+    "activities": [
+      "Satra Monastic Tours",
+      "Mask-making Workshops",
+      "Sunset Boat Rides",
+      "Cycling across Mishing Villages",
+      "Pottery Crafting"
+    ],
+    "accessibility": "Ferry services operate from Nimati Ghat near Jorhat (45-60 min boat ride across the Brahmaputra).",
+    "traveller_types": [
+      "Solo Travellers",
+      "Cultural Explorers",
+      "Photographers",
+      "Budget Travellers"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1596401057633-54a8fe8ef647?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Ferries halt service after sunset. River swells significantly during rainy season. Carry cash as ATM coverage is limited."
+  },
+  {
+    "id": "kamakhya-temple",
+    "name": "Kamakhya Temple",
+    "state": "Assam",
+    "district": "Kamrup Metropolitan",
+    "category": "Spiritual",
+    "short_description": "One of the oldest and most revered of the 51 Shakti Peethas, perched on Nilachal Hill in Guwahati.",
+    "detailed_description": "An architectural marvel blending traditional medieval Nagara and indigenous Nilachal styles, Kamakhya celebrates the power of feminine creation (Maa Kamakhya). The sanctum contains a natural underground cave spring. Nilachal hill provides panoramic vistas of the Brahmaputra River flowing through Guwahati.",
+    "latitude": 26.1664,
+    "longitude": 91.7058,
+    "best_season": "September to April",
+    "duration": "Half to Full Day",
+    "budget_range": "₹1,500 - ₹3,000 / day",
+    "activities": [
+      "Temple Darshan",
+      "Nilachal Viewpoint",
+      "Exploring 10 Mahavidya Temples",
+      "Brahmaputra Ropeway Ride"
+    ],
+    "accessibility": "Located right in Guwahati; accessible by auto, taxi, or public bus; 20 km from Lokpriya Gopinath Bordoloi Airport.",
+    "traveller_types": [
+      "Spiritual Seekers",
+      "History Buffs",
+      "Families"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1620619767323-b95a89183081?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Expect long queues during festival days like Ambubachi Mela in June. Dress respectfully covering shoulders and knees."
+  },
+  {
+    "id": "manas-national-park",
+    "name": "Manas National Park",
+    "state": "Assam",
+    "district": "Baksa & Chirang",
+    "category": "Wildlife",
+    "short_description": "A UNESCO World Heritage sanctuary and biosphere reserve straddling the Himalayan foothills along the Manas river.",
+    "detailed_description": "A biodiversity hotspot known for rare endemic wildlife including the pygmy hog, golden langur, hispid hare, and wild water buffalo. The park borders the Royal Manas National Park of Bhutan, creating an unbroken transboundary conservation corridor.",
+    "latitude": 26.6594,
+    "longitude": 91.0011,
+    "best_season": "November to April",
+    "duration": "2 to 3 Days",
+    "budget_range": "₹3,500 - ₹7,000 / day",
+    "activities": [
+      "Wildlife Jungle Safaris",
+      "River Rafting on Manas River",
+      "Bodo Tribal Village Homestay",
+      "Birding Excursions"
+    ],
+    "accessibility": "Approximately 140 km (3.5 hours) from Guwahati by road; nearest railway hub is Barpeta Road (22 km).",
+    "traveller_types": [
+      "Nature Lovers",
+      "Adventure Travellers",
+      "Wildlife Enthusiasts"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Advance permit required from Field Director's office or park gate. River rafting is subject to seasonal water level clearance."
+  },
+  {
+    "id": "haflong-dima-hasao",
+    "name": "Haflong Hill Station",
+    "state": "Assam",
+    "district": "Dima Hasao",
+    "category": "Nature",
+    "short_description": "Assam's only hill station, enveloped in misty pine hills, cascading streams, and Dimasa tribal heritage.",
+    "detailed_description": "Cradled at 680m in the Borail mountain range, Haflong offers quiet colonial charm, scenic Haflong Lake with its hanging footbridge, vibrant orchids, and traditional orange orchards. The Vistadome train route to Haflong crosses breathtaking curved bridges and mountain tunnels.",
+    "latitude": 25.1764,
+    "longitude": 93.0238,
+    "best_season": "October to April",
+    "duration": "2 to 3 Days",
+    "budget_range": "₹2,000 - ₹4,500 / day",
+    "activities": [
+      "Vistadome Mountain Railway Ride",
+      "Boating on Haflong Lake",
+      "Trekking to Borail Hill Range",
+      "Visiting Jatinga Bird Watch Tower"
+    ],
+    "accessibility": "Connected by the scenic Lumding-Badarpur railway section; approx 8 hours drive from Guwahati.",
+    "traveller_types": [
+      "Couples",
+      "Solo Backpackers",
+      "Rail Enthusiasts",
+      "Nature Lovers"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Mountain road travel can be slow during rainfall. Train tickets for the Vistadome coach sell out weeks in advance."
+  },
+  {
+    "id": "sivasagar-ahom-monuments",
+    "name": "Sivasagar Royal Heritage",
+    "state": "Assam",
+    "district": "Sivasagar",
+    "category": "Historical",
+    "short_description": "The capital of the historic 600-year Ahom kingdom, featuring grand amphitheaters and subterranean palaces.",
+    "detailed_description": "Sivasagar showcases the architectural genius of the Ahom monarchs who repelled Mughal invasions. Highlights include the Rang Ghar (Asia's first royal sports pavilion), Talatal Ghar (a seven-storey palace with secret escape tunnels), and the towering Shiva Dol situated beside the enormous excavated Borpukhuri tank.",
+    "latitude": 26.9826,
+    "longitude": 94.6425,
+    "best_season": "October to March",
+    "duration": "1 to 2 Days",
+    "budget_range": "₹1,800 - ₹3,500 / day",
+    "activities": [
+      "Heritage Monument Walks",
+      "Exploring Ancient Ahom Architecture",
+      "Boating around Joysagar Tank",
+      "Sivasagar Museum Tour"
+    ],
+    "accessibility": "55 km from Jorhat Airport; well connected by NH715 and Northeast Frontier Railway.",
+    "traveller_types": [
+      "History Enthusiasts",
+      "Families",
+      "Architecture Students"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1596401057633-54a8fe8ef647?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "ASI ticket counters close before sunset. Some subterranean levels of Talatal Ghar are cordoned off for structural preservation."
+  },
+  {
+    "id": "pobitora-wildlife-sanctuary",
+    "name": "Pobitora Wildlife Sanctuary",
+    "state": "Assam",
+    "district": "Morigaon",
+    "category": "Wildlife",
+    "short_description": "Holds the highest ecological density of Indian One-horned Rhinoceros in the entire world, just an hour from Guwahati.",
+    "detailed_description": "Known as 'Kaziranga in miniature', Pobitora covers just 38.8 sq km but shelters over 100 rhinos, golden jackals, barking deer, and a prolific wetland bird sanctuary with thousands of winter migrants at Haduk Hanging Bridge and marsh grasslands.",
+    "latitude": 26.2167,
+    "longitude": 92.05,
+    "best_season": "November to April",
+    "duration": "1 Day",
+    "budget_range": "₹2,500 - ₹4,500 / day",
+    "activities": [
+      "Morning Elephant Safari",
+      "Jeep Safari across Wetlands",
+      "Birding at Tamranga Lake",
+      "Mayong Village of Black Magic Tour"
+    ],
+    "accessibility": "Only 48 km (1.5 hours drive) east of Guwahati via Chandrapur or NH27.",
+    "traveller_types": [
+      "Day Trippers",
+      "Photographers",
+      "Short-stay Tourists"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1575550959106-5a7defe28b56?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Safaris operate until late afternoon only. Pre-booking an early morning elephant slot is strongly recommended."
+  },
+  {
+    "id": "dibru-saikhowa-national-park",
+    "name": "Dibru-Saikhowa National Park",
+    "state": "Assam",
+    "district": "Tinsukia & Dibrugarh",
+    "category": "Nature",
+    "short_description": "An enchanted river-island wilderness famous for rare feral horses, white-winged wood ducks, and Gangetic river dolphins.",
+    "detailed_description": "Formed between the Brahmaputra and Dibru rivers, this sanctuary contains evergreen, semi-evergreen, and wet swamp forests. Boat safaris navigate mist-shrouded backwaters where herds of feral horses roam sandy sandbars and Gangetic dolphins breach the water.",
+    "latitude": 27.67,
+    "longitude": 95.35,
+    "best_season": "November to April",
+    "duration": "2 Days",
+    "budget_range": "₹3,000 - ₹6,000 / day",
+    "activities": [
+      "Country Boat Safaris",
+      "Feral Horse Spotting",
+      "River Dolphin Watching",
+      "Birdwatching for White-Winged Wood Duck"
+    ],
+    "accessibility": "12 km from Tinsukia railway hub; 45 km from Mohanbari Airport, Dibrugarh.",
+    "traveller_types": [
+      "Wilderness Explorers",
+      "Birders",
+      "Photographers"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Travel within the park is solely by authorized boats and on foot with licensed forest guides. Life jackets are mandatory."
+  },
+  {
+    "id": "tawang-monastery-pass",
+    "name": "Tawang & Sela Pass",
+    "state": "Arunachal Pradesh",
+    "district": "Tawang",
+    "category": "Spiritual",
+    "short_description": "Perched at 10,000 ft, Tawang is India's largest Buddhist monastery, accessed across the dramatic snow-bound Sela Pass (13,700 ft).",
+    "detailed_description": "Founded in 1680 by Merag Lama Lodre Gyatso, the grand Galden Namgey Lhatse monastery overlooks the verdant Tawang Chu valley. The route ascends through Dirang and over Sela Pass with twin frozen alpine lakes, passing Jaswant Garh War Memorial and Nuranang Waterfall.",
+    "latitude": 27.5861,
+    "longitude": 91.8594,
+    "best_season": "April to October (Winter for heavy snowfall)",
+    "duration": "4 to 5 Days",
+    "budget_range": "₹4,000 - ₹8,500 / day",
+    "activities": [
+      "Monastery Meditation & Morning Chants",
+      "Sela Lake Snow Walk",
+      "Bum La Pass & Madhuri Lake Excursion",
+      "Nuranang Falls Photography"
+    ],
+    "accessibility": "12-14 hours drive from Tezpur or Guwahati via Bomdila. Requires ILP for Indians and PAP for foreigners.",
+    "traveller_types": [
+      "Adventure Seekers",
+      "Spiritual Travellers",
+      "Road Trippers"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "High altitude sickness (AMS) can occur; acclimatize overnight in Dirang or Bomdila. Carry warm thermal clothing year-round."
+  },
+  {
+    "id": "ziro-valley",
+    "name": "Ziro Valley",
+    "state": "Arunachal Pradesh",
+    "district": "Lower Subansiri",
+    "category": "Cultural",
+    "short_description": "A picturesque UNESCO tentative heritage plateau celebrated for Apatani tribal culture, sustainable wet-rice farming, and pine groves.",
+    "detailed_description": "Enclosed by mist-draped blue pine hills, Ziro is home to the Apatani community, known worldwide for facial tattoos, nose plugs (Yaping Hullo), organic fish-cum-paddy cultivation, and bamboo architecture. In autumn, Ziro hosts India's most iconic outdoor indie music festival.",
+    "latitude": 27.545,
+    "longitude": 93.829,
+    "best_season": "March to October (Late September for Ziro Music Festival)",
+    "duration": "3 to 4 Days",
+    "budget_range": "₹2,500 - ₹5,500 / day",
+    "activities": [
+      "Apatani Village Cultural Immersion",
+      "Trekking to Talley Valley Wildlife Sanctuary",
+      "Tarin High-Altitude Fish Farm",
+      "Kardo Shiva Lingam"
+    ],
+    "accessibility": "7 hours drive from Naharlagun railway station or Itanagar Donyi Polo Airport.",
+    "traveller_types": [
+      "Culture Lovers",
+      "Music Festival Fans",
+      "Photographers",
+      "Backpackers"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Inner Line Permit (ILP) is required. Homestay bookings during festival dates must be secured months ahead."
+  },
+  {
+    "id": "mechuka-valley",
+    "name": "Mechuka Valley",
+    "state": "Arunachal Pradesh",
+    "district": "Shi Yomi",
+    "category": "Offbeat",
+    "short_description": "A forbidden valley of ethereal beauty, with wooden Tibetan bridges, grazing horses, and the 400-year-old Samten Yongcha monastery.",
+    "detailed_description": "Cradled just 29 km south of the Indo-Tibet frontier along the Yargyap Chu river, Mechuka is nicknamed Arunachal's 'Shangri-La'. The indigenous Memba, Ramo, and Bokar tribes live in traditional wooden cottages surrounded by rolling snow-crested mountain meadows.",
+    "latitude": 28.601,
+    "longitude": 94.135,
+    "best_season": "October to April",
+    "duration": "4 to 5 Days",
+    "budget_range": "₹3,000 - ₹6,000 / day",
+    "activities": [
+      "Samten Yongcha Monastery Hike",
+      "Crossing Wooden Hanging Bridges",
+      "Trekking to Hanuman Peak",
+      "Local Memba Millet Butter Tea Tasting"
+    ],
+    "accessibility": "Approx 10-12 hours drive by rugged SUV from Along (Aalo) or Pasighat.",
+    "traveller_types": [
+      "Offbeat Explorers",
+      "Trekking Enthusiasts",
+      "Photographers"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Remote region with intermittent cellular connectivity. High ground clearance SUV recommended for mountain transit."
+  },
+  {
+    "id": "namdapha-national-park",
+    "name": "Namdapha National Park",
+    "state": "Arunachal Pradesh",
+    "district": "Changlang",
+    "category": "Adventure",
+    "short_description": "India's easternmost wilderness and the only national park home to four feline species: Tiger, Leopard, Snow Leopard, and Clouded Leopard.",
+    "detailed_description": "A biodiversity hotspot covering deep rainforests ascending from 200m to over 4,500m at Daphabum peak. Namdapha contains rare fauna like the Hoolock gibbon, red panda, Takin, and hornbill species in virgin primary dipterocarp forests.",
+    "latitude": 27.4917,
+    "longitude": 96.3833,
+    "best_season": "October to April",
+    "duration": "3 to 5 Days",
+    "budget_range": "₹3,500 - ₹7,000 / day",
+    "activities": [
+      "Multi-day Rainforest Trekking",
+      "Hoolock Gibbon Tracking",
+      "Birdwatching (over 400 species)",
+      "Noa-Dihing River Walk"
+    ],
+    "accessibility": "Entry point is Miao, approx 140 km from Tinsukia, Assam.",
+    "traveller_types": [
+      "Hardcore Trekkers",
+      "Wildlife Researchers",
+      "Birders"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Mandatory forest escort and camping permits required. Leeches are common in wet patches; carry gaiters."
+  },
+  {
+    "id": "anini-dibang-valley",
+    "name": "Anini & Dibang Valley",
+    "state": "Arunachal Pradesh",
+    "district": "Dibang Valley",
+    "category": "Offbeat",
+    "short_description": "Dramatic clouds rolling over emerald ridges, turquoise glacial lakes, and the mystical animist heritage of the Idu Mishmi people.",
+    "detailed_description": "Anini is one of the most untouched high-altitude mountain valleys in the Eastern Himalayas. Dotted with pine-covered hills, rushing Dibang tributaries, and high-altitude Seven Lakes trek trails, it offers raw unspoiled Himalayan wilderness.",
+    "latitude": 28.79,
+    "longitude": 95.9,
+    "best_season": "October to April",
+    "duration": "4 to 6 Days",
+    "budget_range": "₹3,000 - ₹6,500 / day",
+    "activities": [
+      "Seven Lakes Trek",
+      "Dri River Campfire",
+      "Idu Mishmi Bamboo Handicraft Learning",
+      "Exploring Mipi Village"
+    ],
+    "accessibility": "Reachable via Roing along the scenic trans-Arunachal highway (8-9 hours drive).",
+    "traveller_types": [
+      "Backpackers",
+      "Hikers",
+      "Offbeat Trailblazers"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Fuel stations are sparse; top up tanks in Roing. Obtain ILP with Anini clearly marked as a destination."
+  },
+  {
+    "id": "dirang-valley",
+    "name": "Dirang Valley",
+    "state": "Arunachal Pradesh",
+    "district": "West Kameng",
+    "category": "Nature",
+    "short_description": "A tranquil valley along the Kameng River filled with apple orchards, hot water sulphur springs, and the centuries-old Dirang Dzong fortress.",
+    "detailed_description": "Lying at 4,900 ft on the highway to Tawang, Dirang is celebrated for its mild climate, Monpa stone architecture at Dirang Dzong (built in the 17th century), the National Research Centre on Yak, and Sangti Valley where black-necked cranes migrate in winter.",
+    "latitude": 27.3556,
+    "longitude": 92.2389,
+    "best_season": "October to April",
+    "duration": "2 Days",
+    "budget_range": "₹2,200 - ₹5,000 / day",
+    "activities": [
+      "Visiting Dirang Dzong",
+      "Sangti Valley Kiwi Orchard Stroll",
+      "Natural Hot Water Spring Bath",
+      "Yak Farm Interaction"
+    ],
+    "accessibility": "4.5 hours drive from Tezpur; convenient acclimatization stopover on the way to Tawang.",
+    "traveller_types": [
+      "Families",
+      "Leisure Travellers",
+      "Birders"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Evenings get chilly even in autumn. Carry small change for kiwi fruit and organic apple stands along the roadside."
+  },
+  {
+    "id": "pasighat-siang-river",
+    "name": "Pasighat & Siang River",
+    "state": "Arunachal Pradesh",
+    "district": "East Siang",
+    "category": "Adventure",
+    "short_description": "Arunachal's oldest town where the ferocious Siang River bursts out from Himalayan canyons onto the plains.",
+    "detailed_description": "Pasighat is the gateway to adrenaline-pumping whitewater rafting expeditions on the Siang (the upper Brahmaputra). Surrounding hills are dotted with Adi tribal villages with distinctive cane and bamboo suspension bridges and Daying Ering Wildlife Sanctuary.",
+    "latitude": 28.0667,
+    "longitude": 95.3333,
+    "best_season": "November to April",
+    "duration": "2 to 3 Days",
+    "budget_range": "₹2,500 - ₹5,500 / day",
+    "activities": [
+      "Siang River Whitewater Rafting",
+      "Walking Long Cane Suspension Bridges",
+      "Visiting Daying Ering Sanctuary",
+      "Adi Folk Music Evenings"
+    ],
+    "accessibility": "Connected by road to Dibrugarh (across Bogibeel bridge, 3 hours) and has its own regional airport.",
+    "traveller_types": [
+      "Adrenaline Seekers",
+      "Rafters",
+      "Cultural Enthusiasts"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Rafting during high water requires professional grade certification. Respect local tribal village taboos and community council norms."
+  },
+  {
+    "id": "cherrapunji-sohra-bridges",
+    "name": "Cherrapunji (Sohra) & Living Root Bridges",
+    "state": "Meghalaya",
+    "district": "East Khasi Hills",
+    "category": "Nature",
+    "short_description": "Globally renowned cloud kingdom featuring ancient bio-engineered living root bridges and cascading monster waterfalls.",
+    "detailed_description": "Perched on the edge of the Meghalayan plateau overlooking the plains of Bangladesh, Sohra is famed for the Umshiang Double Decker Living Root Bridge in Nongriat (grown from Ficus elastica roots by Khasi elders over centuries), Nohkalikai Falls (India's tallest plunge waterfall), Mawsmai limestone cave, and Seven Sisters Falls.",
+    "latitude": 25.2986,
+    "longitude": 91.5822,
+    "best_season": "September to May (June-August for epic monsoon surges)",
+    "duration": "3 Days",
+    "budget_range": "₹2,500 - ₹6,000 / day",
+    "activities": [
+      "Trek to Nongriat Double Decker Bridge",
+      "Nohkalikai Viewpoint",
+      "Mawsmai Cave Spelunking",
+      "Rainbow Falls Hike",
+      "Seven Sisters View"
+    ],
+    "accessibility": "54 km (2 hours drive) from Shillong along well-paved mountain highway.",
+    "traveller_types": [
+      "Trekkers",
+      "Photographers",
+      "Nature Enthusiasts",
+      "Adventure Travellers"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Nongriat hike requires descending and climbing back 3,500+ stone steps; requires decent cardiovascular fitness. Trekking poles advised."
+  },
+  {
+    "id": "dawki-umngot-river",
+    "name": "Dawki & Umngot River",
+    "state": "Meghalaya",
+    "district": "West Jaintia Hills",
+    "category": "Nature",
+    "short_description": "Crystal-clear waters where traditional boats appear to float in mid-air over pebble riverbeds along the Bangladesh border.",
+    "detailed_description": "The Umngot River flows through a dramatic gorge between Jaintia and Khasi hills. In winter and spring, the transparency of the river allows visibility down to the riverbed 15-20 feet deep. Shnongpdeng village upstream offers riverside tent camping, scuba diving, and zip-lining.",
+    "latitude": 25.1878,
+    "longitude": 92.0194,
+    "best_season": "November to April (Water turns muddy during monsoon)",
+    "duration": "1 to 2 Days",
+    "budget_range": "₹2,000 - ₹5,000 / day",
+    "activities": [
+      "Crystal Glass Boat Rides",
+      "Riverside Camping at Shnongpdeng",
+      "Cliff Jumping & Kayaking",
+      "Tamabil Indo-Bangladesh Border Visit"
+    ],
+    "accessibility": "80 km (3 hours) from Shillong via Pynursla.",
+    "traveller_types": [
+      "Couples",
+      "Youth Groups",
+      "Water Sports Enthusiasts"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Visit strictly during dry months (Nov-Apr) for emerald crystal clarity. Always wear life vests on boats."
+  },
+  {
+    "id": "shillong-scotland-of-the-east",
+    "name": "Shillong Heritage & Music Capital",
+    "state": "Meghalaya",
+    "district": "East Khasi Hills",
+    "category": "Cultural",
+    "short_description": "India's rock music capital steeped in colonial pine architecture, lively cafes, and scenic Umiam Lake.",
+    "detailed_description": "Shillong blends indie western music culture with traditional Khasi heritage. Highlights include the manicured Ward's Lake, the Don Bosco Centre for Indigenous Cultures (Asia's finest anthropological museum), Elephant Falls, bustling Police Bazar street food stalls, and the serene expanse of Umiam Lake (Barapani).",
+    "latitude": 25.5788,
+    "longitude": 91.8933,
+    "best_season": "Year-round (September to May ideal)",
+    "duration": "2 to 3 Days",
+    "budget_range": "₹2,500 - ₹6,500 / day",
+    "activities": [
+      "Live Music Cafe Nights",
+      "Don Bosco Museum Exploration",
+      "Boating on Umiam Lake",
+      "Laitlum Canyons Sunset Trek"
+    ],
+    "accessibility": "3 hours drive from Guwahati Airport; Shillong Airport (Umroi) connects to regional hubs.",
+    "traveller_types": [
+      "Music Lovers",
+      "Families",
+      "Solo Travellers",
+      "Foodies"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Expect traffic bottlenecks in central Shillong during rush hours. Peak winters (Dec-Jan) require woolens."
+  },
+  {
+    "id": "mawlynnong-cleanest-village",
+    "name": "Mawlynnong & Riwai Living Bridge",
+    "state": "Meghalaya",
+    "district": "East Khasi Hills",
+    "category": "Cultural",
+    "short_description": "Awarded 'Asia's Cleanest Village', showcasing community cleanliness traditions, bamboo skywalks, and stilt homestays.",
+    "detailed_description": "Every villager in Mawlynnong participates in sweeping pathways, cultivating floral borders, and collecting trash in conical bamboo bins (Khoh). Nearby in Riwai village lies an easily accessible single living root bridge, requiring only a gentle 10-minute stroll.",
+    "latitude": 25.2017,
+    "longitude": 91.9167,
+    "best_season": "October to April",
+    "duration": "1 Day",
+    "budget_range": "₹1,800 - ₹4,000 / day",
+    "activities": [
+      "Village Botanical Walk",
+      "Riwai Single Root Bridge Visit",
+      "Climbing Bamboo Sky View Treehouse",
+      "Khasi Village Meal"
+    ],
+    "accessibility": "90 km from Shillong; easily combined with a day trip to Dawki.",
+    "traveller_types": [
+      "Families",
+      "Senior Citizens",
+      "Ecotourists"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1596401057633-54a8fe8ef647?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Strictly no littering or plastic dumping. Respect village privacy and avoid stepping into private family gardens uninvited."
+  },
+  {
+    "id": "laitlum-canyons",
+    "name": "Laitlum Canyons",
+    "state": "Meghalaya",
+    "district": "East Khasi Hills",
+    "category": "Nature",
+    "short_description": "The 'End of the World' amphitheater: sheer cliff drops overlooking winding river valleys and mist-cloaked hamlets below.",
+    "detailed_description": "Perched atop the East Khasi Hills, Laitlum means 'End of Hills'. Visitors stand on edge ridges overlooking deep green canyons where a staircase of 3,000 steps leads down to the hidden village of Rasong, whose residents rely on a pulley ropeway for supplies.",
+    "latitude": 25.46,
+    "longitude": 91.9,
+    "best_season": "October to April",
+    "duration": "Half Day",
+    "budget_range": "₹1,200 - ₹2,500 / day",
+    "activities": [
+      "Ridge Cliff Walking",
+      "Photography of Rolling Mist Canyons",
+      "Picnicking on Green Grassy Slopes",
+      "Rasong Stairway Exploration"
+    ],
+    "accessibility": "24 km (45 mins) drive from central Shillong through scenic pine groves.",
+    "traveller_types": [
+      "Photographers",
+      "Hikers",
+      "Couples"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "There are no guard rails on cliff edges; exercise extreme caution near steep drops, especially when mist obscures footing."
+  },
+  {
+    "id": "krang-suri-falls",
+    "name": "Krang Suri Falls",
+    "state": "Meghalaya",
+    "district": "West Jaintia Hills",
+    "category": "Nature",
+    "short_description": "A fairytale curtain waterfall plunging into a shimmering natural turquoise-blue swimming pool in the Jaintia Hills.",
+    "detailed_description": "Tucked away near Amlarem, Krang Suri is reached via stone-chiseled footpaths winding past lush greenery. Life jackets can be rented on-site, allowing travellers to safely swim in the turquoise pool right under the roaring curtain of water.",
+    "latitude": 25.3,
+    "longitude": 92.5333,
+    "best_season": "September to April",
+    "duration": "1 Day",
+    "budget_range": "₹2,000 - ₹4,000 / day",
+    "activities": [
+      "Turquoise Lagoon Swimming",
+      "Walking Behind the Waterfall Curtain",
+      "Riverside Camping",
+      "Cave Viewpoint Hike"
+    ],
+    "accessibility": "30 km from Jowai town or 90 km from Shillong; accessible via paved highway.",
+    "traveller_types": [
+      "Youth Groups",
+      "Swimmers",
+      "Nature Lovers"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Life jacket is strictly mandatory for entering the swimming pool. Paths become slippery after rain."
+  },
+  {
+    "id": "mawsynram-caves-sacred-groves",
+    "name": "Mawsynram & Mawphlang Sacred Grove",
+    "state": "Meghalaya",
+    "district": "East Khasi Hills",
+    "category": "Offbeat",
+    "short_description": "The wettest place on planet Earth and an ancient mystical forest protected by age-old Khasi tribal taboos.",
+    "detailed_description": "Mawsynram holds the Guinness record for highest annual rainfall on Earth (11,872 mm). Nearby Mawphlang Sacred Forest preserves an untouched biodiversity sanctuary where nothing—not even a single leaf, twig, or stone—may be removed according to centuries-old tribal decree.",
+    "latitude": 25.2972,
+    "longitude": 91.5833,
+    "best_season": "September to April (Monsoon for extreme rain buffs)",
+    "duration": "1 to 2 Days",
+    "budget_range": "₹2,000 - ₹4,500 / day",
+    "activities": [
+      "Mawphlang Guided Sacred Forest Walk",
+      "Exploring Mawjymbuin Stalagmite Cave",
+      "Rainfall Measurement Station Visit"
+    ],
+    "accessibility": "Mawphlang is 25 km from Shillong; Mawsynram is 60 km from Shillong.",
+    "traveller_types": [
+      "Ecotourists",
+      "Botanists",
+      "Culture Explorers"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Strictly follow the Khasi guide's instructions in the sacred grove: taking any plant matter is deeply offensive."
+  },
+  {
+    "id": "loktak-lake-keibul-lamjao",
+    "name": "Loktak Lake & Keibul Lamjao",
+    "state": "Manipur",
+    "district": "Bishnupur & Moirang",
+    "category": "Wildlife",
+    "short_description": "The world's only floating national park on the shimmering waters of Loktak Lake, safeguarding the endangered dancing Sangai deer.",
+    "detailed_description": "Loktak is the largest freshwater lake in Northeast India, famous for its floating circular biomass rings called 'phumdis'. In the southern corner lies Keibul Lamjao National Park, where the rare brow-antlered Eld's deer (Sangai) leaps nimbly on the floating spongy vegetation.",
+    "latitude": 24.55,
+    "longitude": 93.8,
+    "best_season": "October to March",
+    "duration": "2 Days",
+    "budget_range": "₹2,200 - ₹5,000 / day",
+    "activities": [
+      "Boating on Floating Phumdis",
+      "Sangai Deer Safari at Keibul Lamjao",
+      "Staying at Floating Homestays",
+      "Sendra Island Sunset View"
+    ],
+    "accessibility": "48 km (1.5 hours) from Imphal Airport along NH2.",
+    "traveller_types": [
+      "Wildlife Enthusiasts",
+      "Eco Travellers",
+      "Photographers"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Floating homestays have basic amenities; carry power banks. Forest department boat permits required for early morning deer tracking."
+  },
+  {
+    "id": "imphal-ima-keithel-kangla",
+    "name": "Imphal Heritage: Kangla Fort & Ima Keithel",
+    "state": "Manipur",
+    "district": "Imphal West",
+    "category": "Historical",
+    "short_description": "Asia's largest all-women market run by 5,000+ matriarchs and the sacred ancestral seat of Manipur's Meitei kings.",
+    "detailed_description": "Ima Keithel (Mother's Market) is a 500-year-old market exclusively run by married women selling everything from handwoven phanek sarongs to spices. Nearby Kangla Fort holds the royal palace ruins, Govindaji temple, and dragon-like Kangla Sha statues on the banks of the Imphal River.",
+    "latitude": 24.817,
+    "longitude": 93.9368,
+    "best_season": "October to April",
+    "duration": "1 to 2 Days",
+    "budget_range": "₹2,000 - ₹4,500 / day",
+    "activities": [
+      "Exploring Ima Keithel Market",
+      "Kangla Fort Heritage Walk",
+      "Visiting Kangla Sha Dragons",
+      "Tasting Singju & Meitei Cuisines"
+    ],
+    "accessibility": "Located in the heart of Imphal; 15 mins from Bir Tikendrajit International Airport.",
+    "traveller_types": [
+      "Culture Enthusiasts",
+      "Solo Female Travellers",
+      "Shoppers",
+      "Historians"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1596401057633-54a8fe8ef647?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Be polite and ask permission before taking close-up portraits of the women vendors. Inner Line Permit required for entry into Manipur."
+  },
+  {
+    "id": "ukhrul-shirui-peak",
+    "name": "Ukhrul & Shirui Kashung Peak",
+    "state": "Manipur",
+    "district": "Ukhrul",
+    "category": "Nature",
+    "short_description": "Highland home of the Tangkhul Naga tribe and the endemic Shirui Lily flower that grows nowhere else on Earth.",
+    "detailed_description": "Rising to 2,835 meters, Shirui Peak blooms with the pale-pink bell-shaped Lilium mackliniae (Shirui Lily) every May and June. Ukhrul town offers mist-covered pine valleys, traditional wood-carved Tangkhul homes, and limestone Khangkhui caves.",
+    "latitude": 25.1167,
+    "longitude": 94.3667,
+    "best_season": "May to June (for Shirui Lily bloom) or October to April",
+    "duration": "2 to 3 Days",
+    "budget_range": "₹2,200 - ₹4,800 / day",
+    "activities": [
+      "Shirui Kashung Peak Trek",
+      "Tangkhul Naga Cultural Interaction",
+      "Exploring Khangkhui Lime Cave",
+      "Tasting Wild Naga Honey & Black Rice"
+    ],
+    "accessibility": "84 km (3.5 hours drive) east of Imphal via winding mountain roads.",
+    "traveller_types": [
+      "Trekkers",
+      "Botanists",
+      "Adventure Seekers"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Picking or uprooting the endangered Shirui Lily is strictly prohibited by law with heavy fines."
+  },
+  {
+    "id": "dzukou-valley-manipur-side",
+    "name": "Dzukou Valley (Mount Tempü Trail)",
+    "state": "Manipur",
+    "district": "Senapati",
+    "category": "Adventure",
+    "short_description": "The dramatic southern gateway into the pristine Dzukou biosphere from Mount Tempü in Senapati.",
+    "detailed_description": "While frequently accessed from Nagaland, Manipur's entry from Mount Tempü offers a more rugged, less-crowded wilderness trail. The valley is famous for its rolling bamboo mounds, meandering crystal brooks, and endemic Dzukou lilies.",
+    "latitude": 25.55,
+    "longitude": 94.06,
+    "best_season": "June to September (for flowers) & October to March (clear skies & frost)",
+    "duration": "2 to 3 Days",
+    "budget_range": "₹2,500 - ₹5,000 / day",
+    "activities": [
+      "High-altitude Bamboo Valley Trek",
+      "Wilderness Tent Camping",
+      "Stargazing over Valley Ridges",
+      "Mount Tempü Summit Walk"
+    ],
+    "accessibility": "Base camp accessed via Senapati district along NH2; approx 3 hours from Imphal.",
+    "traveller_types": [
+      "Hardcore Trekkers",
+      "Backpackers",
+      "Campers"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Strict 'No Plastic' zone. Carry warm sleeping bags as temperatures drop to sub-zero in winter."
+  },
+  {
+    "id": "andro-heritage-village",
+    "name": "Andro Ancient Heritage Village",
+    "state": "Manipur",
+    "district": "Imphal East",
+    "category": "Cultural",
+    "short_description": "An ancient Loi community village preserving an eternal sacred fire that has burned continuously since the 1st century AD.",
+    "detailed_description": "Nestled in the foothills of the Nongmaiching hills, Andro is an anthropological treasure. The village maintains the sacred fire at the Panam Ningthou temple, along with the Mutua Cultural Heritage Complex showcasing traditional thatched tribal huts, wood carvings, and coiled pottery (charai taba).",
+    "latitude": 24.75,
+    "longitude": 94.0333,
+    "best_season": "October to April",
+    "duration": "1 Day",
+    "budget_range": "₹1,500 - ₹3,000 / day",
+    "activities": [
+      "Mutua Museum Pottery Tour",
+      "Viewing the Eternal Sacred Fire",
+      "Tasting Traditional Sekmai/Andro Rice Brew",
+      "Doll Heritage Gallery Walk"
+    ],
+    "accessibility": "25 km (45 mins drive) east of Imphal city.",
+    "traveller_types": [
+      "Culture Lovers",
+      "Anthropology Fans",
+      "Families"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1596401057633-54a8fe8ef647?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Photography inside the sanctum of the sacred fire temple is strictly forbidden."
+  },
+  {
+    "id": "moreh-border-town",
+    "name": "Moreh & Indo-Myanmar Gateway",
+    "state": "Manipur",
+    "district": "Tengnoupal",
+    "category": "Offbeat",
+    "short_description": "The bustling international trade outpost connecting India to Myanmar and the historic Asian Highway.",
+    "detailed_description": "Situated on the international frontier 110 km from Imphal, Moreh is a melting pot of Meitei, Kuki, Tamil, and Burmese communities. Visitors explore Namphalong border market, Burmese Buddhist temples, and sample authentic Burmese Laphet thoke (tea leaf salad).",
+    "latitude": 24.25,
+    "longitude": 94.3,
+    "best_season": "November to March",
+    "duration": "1 to 2 Days",
+    "budget_range": "₹2,000 - ₹4,000 / day",
+    "activities": [
+      "Namphalong International Market Shopping",
+      "Visiting Burmese Pagoda",
+      "Sampling Burmese Khow Suey",
+      "Scenic Drive through Tengnoupal Pass"
+    ],
+    "accessibility": "110 km from Imphal along AH1 / NH102.",
+    "traveller_types": [
+      "Curious Travellers",
+      "Shoppers",
+      "Road Trippers"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1596401057633-54a8fe8ef647?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Check prevailing border regulations and security checkpoints before driving. Carry valid government ID."
+  },
+  {
+    "id": "aizawl-capital-ridge",
+    "name": "Aizawl & Solomon's Temple",
+    "state": "Mizoram",
+    "district": "Aizawl",
+    "category": "Cultural",
+    "short_description": "A cliffside city of pastel-coloured houses clinging to mountain ridges, renowned for Solomon's Temple and vibrant church choirs.",
+    "detailed_description": "Perched at 3,700 ft, Aizawl is celebrated for its remarkable traffic discipline (honk-free streets!), warm Mizo hospitality, the white marble Solomon's Temple in Chawlhhmun, KV Paradise memorial, and vibrant handicrafts at Bara Bazar.",
+    "latitude": 23.7271,
+    "longitude": 92.7176,
+    "best_season": "October to April",
+    "duration": "2 to 3 Days",
+    "budget_range": "₹2,500 - ₹5,500 / day",
+    "activities": [
+      "Visiting Solomon's Temple",
+      "Exploring Bara Bazar Weaving Stalls",
+      "Sunset at Durtlang Hills Viewpoint",
+      "Sunday Church Gospel Choir Listening"
+    ],
+    "accessibility": "Lengpui Airport connects to Kolkata, Guwahati, and New Delhi; 1 hour drive to city center.",
+    "traveller_types": [
+      "City Explorers",
+      "Couples",
+      "Solo Travellers"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Most commercial shops and restaurants are closed on Sundays in observation of religious services. Plan dining ahead on weekends."
+  },
+  {
+    "id": "reiek-mountain-heritage",
+    "name": "Reiek Tlang & Heritage Village",
+    "state": "Mizoram",
+    "district": "Mamit",
+    "category": "Nature",
+    "short_description": "A dramatic cliff peak at 1,548m overlooking the plains of Bangladesh, featuring a reconstructed traditional Mizo chieftain village.",
+    "detailed_description": "Reiek peak towers over lush green valleys with sharp vertical rock escarpments. The hike to the top crosses misty temperate forests. At the base, the Reiek Tourist Resort showcases traditional huts of Mizo chieftains, bachelors' dormitories (Zawlbuk), and native black smithies.",
+    "latitude": 23.6833,
+    "longitude": 92.6,
+    "best_season": "October to April",
+    "duration": "1 to 2 Days",
+    "budget_range": "₹1,800 - ₹4,000 / day",
+    "activities": [
+      "Reiek Cliff Summit Trek",
+      "Exploring Traditional Mizo Heritage Village",
+      "Birdwatching along Forest Trail",
+      "Attending Anthurium Festival"
+    ],
+    "accessibility": "30 km (1 hour drive) west of Aizawl; accessible by taxi or rental scooter.",
+    "traveller_types": [
+      "Hikers",
+      "Couples",
+      "Nature Lovers"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "The final cliff edge has a sheer drop with strong crosswinds. Watch children closely near the precipice."
+  },
+  {
+    "id": "vantawng-falls-thenzawl",
+    "name": "Vantawng Falls & Thenzawl",
+    "state": "Mizoram",
+    "district": "Serchhip",
+    "category": "Nature",
+    "short_description": "The highest two-tiered waterfall in Mizoram (750 ft), nestled amid bamboo forests near the handloom town of Thenzawl.",
+    "detailed_description": "Surrounded by a dense emerald amphitheater of bamboo groves, Vantawng Khawhthla plunges majestically into the Lau river. Nearby Thenzawl is the handloom weaving heartland of Mizoram where women weave intricate Puan shawls on traditional backstrap looms.",
+    "latitude": 23.2833,
+    "longitude": 92.7667,
+    "best_season": "September to January",
+    "duration": "1 to 2 Days",
+    "budget_range": "₹2,000 - ₹4,200 / day",
+    "activities": [
+      "Vantawng Falls Viewing Tower",
+      "Thenzawl Golf Course & Deer Park Walk",
+      "Purchasing Authentic Mizo Puan Textiles",
+      "Tuirihiau Falls Walk-Behind"
+    ],
+    "accessibility": "90 km (3 hours drive) south of Aizawl along well-maintained roads.",
+    "traveller_types": [
+      "Nature Lovers",
+      "Textile Aficionados",
+      "Families"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Direct access to the pool base of Vantawng is barred due to steep cliffs; viewing is from an observation pavilion."
+  },
+  {
+    "id": "phawngpui-blue-mountain",
+    "name": "Phawngpui (Blue Mountain National Park)",
+    "state": "Mizoram",
+    "district": "Lawngtlai",
+    "category": "Adventure",
+    "short_description": "Mizoram's highest peak (2,157m), revered as the abode of benign mountain spirits and home to the rare Blyth's tragopan.",
+    "detailed_description": "Phawngpui features a dramatic semi-circular cliff on its western side known as Thlazuang Kham, dropping sheer into deep canyons. The summit plateau is carpeted with orchids, rhododendrons, and wild bamboo, offering panoramas extending into the Chin Hills of Myanmar.",
+    "latitude": 22.6333,
+    "longitude": 93.05,
+    "best_season": "November to April",
+    "duration": "3 to 4 Days",
+    "budget_range": "₹2,800 - ₹6,000 / day",
+    "activities": [
+      "Summit Trek to Blue Mountain",
+      "Birdwatching for Mrs. Hume's Pheasant",
+      "Camping at Sangau Base Village",
+      "Orchid Photography"
+    ],
+    "accessibility": "Approx 290 km south of Aizawl; base camp is at Sangau village (requires full day journey by SUV).",
+    "traveller_types": [
+      "Hardcore Trekkers",
+      "Ornithologists",
+      "Wilderness Campers"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "The national park is closed to trekkers during the monsoon and breeding season (May to October)."
+  },
+  {
+    "id": "champhai-vineyard-valley",
+    "name": "Champhai & Rih Dil",
+    "state": "Mizoram",
+    "district": "Champhai",
+    "category": "Cultural",
+    "short_description": "The 'Rice Bowl of Mizoram' bordered by mountain vineyards, ancient monoliths, and the sacred heart-shaped Rih Dil lake.",
+    "detailed_description": "Champhai boasts sweeping green paddy flats ringed by purple mountain ranges. It is India's leading producer of passion fruit and kiwi wine. Just across the border checkpoint lies Rih Dil, an enchanted heart-shaped lake held sacred in Mizo ancestral folklore as the gateway to the spirit world.",
+    "latitude": 23.475,
+    "longitude": 93.327,
+    "best_season": "October to April",
+    "duration": "2 to 3 Days",
+    "budget_range": "₹2,200 - ₹4,800 / day",
+    "activities": [
+      "Excursion to Rih Dil Heart Lake",
+      "Visiting Champhai Winery",
+      "Exploring Mizo Historical Monoliths",
+      "Tiau River Border Market Stroll"
+    ],
+    "accessibility": "190 km (6-7 hours drive) east of Aizawl via lush mountain highways.",
+    "traveller_types": [
+      "Romantics",
+      "Culture Lovers",
+      "Wine Enthusiasts"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Border crossing to Rih Dil requires nominal local permit fees and identification check at the Zokhawthar checkpoint."
+  },
+  {
+    "id": "tamdil-lake-resort",
+    "name": "Tamdil (Lake of Mustards)",
+    "state": "Mizoram",
+    "district": "Saitual",
+    "category": "Nature",
+    "short_description": "A tranquil natural forest lake enclosed by tropical evergreen jungle and fishing resorts.",
+    "detailed_description": "Legend says Tamdil was created when a giant mustard plant was cut down and water gushed forth. Today it serves as a peaceful retreat where visitors enjoy pedal boating, angling, and lakeside wooden cottage stays surrounded by chirping kingfishers and wild orchids.",
+    "latitude": 23.7333,
+    "longitude": 92.95,
+    "best_season": "October to April",
+    "duration": "1 Day",
+    "budget_range": "₹1,800 - ₹3,500 / day",
+    "activities": [
+      "Pedal Boating on Tamdil",
+      "Forest Trail Nature Walks",
+      "Lakeside Fish Dining",
+      "Angling & Bird Spotting"
+    ],
+    "accessibility": "85 km (2.5 hours drive) east of Aizawl.",
+    "traveller_types": [
+      "Families",
+      "Day Trippers",
+      "Leisure Travellers"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Boating services operate until sunset. Lakeside cottages have limited rooms; reserve in advance via Mizoram Tourism."
+  },
+  {
+    "id": "kisama-hornbill-village",
+    "name": "Kisama Heritage Village & Kohima",
+    "state": "Nagaland",
+    "district": "Kohima",
+    "category": "Cultural",
+    "short_description": "The epic venue of the annual Hornbill Festival, featuring traditional tribal morungs representing all 16 Naga tribes.",
+    "detailed_description": "Kisama sits 12 km south of Kohima beneath Mount Japfu. During the first ten days of December, it erupts into the 'Festival of Festivals' with indigenous warrior dances, fire-making, Naga chilli eating contests, and craft exhibitions. Kohima town features the serene WWII Commonwealth War Cemetery.",
+    "latitude": 25.6,
+    "longitude": 94.1167,
+    "best_season": "October to April (December 1-10 for Hornbill Festival)",
+    "duration": "3 to 4 Days",
+    "budget_range": "₹3,500 - ₹9,000 / day",
+    "activities": [
+      "Hornbill Festival Celebrations",
+      "Exploring Tribal Morungs",
+      "Visiting Kohima War Cemetery",
+      "Sampling Smoked Pork & King Chilli Dishes"
+    ],
+    "accessibility": "75 km (2.5 hours drive) from Dimapur airport and railhead along NH29.",
+    "traveller_types": [
+      "Cultural Explorers",
+      "Photographers",
+      "Foodies",
+      "Music Lovers"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Hotel and homestay rates double during Hornbill Festival week; bookings must be secured 3-6 months in advance."
+  },
+  {
+    "id": "dzukou-valley-nagaland",
+    "name": "Dzukou Valley Trek (Viswema & Jakhama)",
+    "state": "Nagaland",
+    "district": "Kohima",
+    "category": "Adventure",
+    "short_description": "An emerald high-altitude bowl at 2,450m carpeted with dwarf bamboo, natural bonsai trees, and the rare Dzukou lily.",
+    "detailed_description": "Ascending through Viswema or Jakhama trails, trekkers emerge above cloud level into one of the most sublime alpine landscapes in Asia. The gentle valley floor is dissected by two crystal-clear brooks that freeze over in winter.",
+    "latitude": 25.55,
+    "longitude": 94.06,
+    "best_season": "June to September (Lilies) & October to March (Clear blue skies & frosted mornings)",
+    "duration": "2 to 3 Days",
+    "budget_range": "₹2,500 - ₹5,000 / day",
+    "activities": [
+      "Dzukou Valley Trek",
+      "Camping at the Rest House or Caves",
+      "Riverbed Rock Scrambling",
+      "Landscape Stargazing"
+    ],
+    "accessibility": "Base camps at Viswema (easier trail) and Jakhama (steep steps); 25 km from Kohima.",
+    "traveller_types": [
+      "Trekkers",
+      "Backpackers",
+      "Photographers"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Dzukou is a strict Zero Plastic zone; single-use plastics are confiscated at the entry checkpoint. Carry warm sleeping gear."
+  },
+  {
+    "id": "khonoma-green-village",
+    "name": "Khonoma Green Village",
+    "state": "Nagaland",
+    "district": "Kohima",
+    "category": "Offbeat",
+    "short_description": "India's first green village, famed for Angami warrior history, 700-year-old carved terrace paddy fields, and wildlife conservation.",
+    "detailed_description": "Khonoma successfully banned hunting in 1998 to save the endangered Blyth's Tragopan pheasant. The village features stone forts (Kharu) that fiercely withstood British colonial forces in the 1879 Battle of Khonoma, organic alder-based terrace farms, and homestays serving authentic Angami cuisine.",
+    "latitude": 25.65,
+    "longitude": 94.0167,
+    "best_season": "October to April",
+    "duration": "1 to 2 Days",
+    "budget_range": "₹2,000 - ₹4,500 / day",
+    "activities": [
+      "Village Heritage Fort Walk",
+      "Angami Basket Weaving Workshops",
+      "Terraced Paddy Field Walks",
+      "Blyth's Tragopan Birding Trail"
+    ],
+    "accessibility": "20 km (45 mins drive) west of Kohima along scenic ridge roads.",
+    "traveller_types": [
+      "Ecotourists",
+      "History Buffs",
+      "Culture Seekers"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1596401057633-54a8fe8ef647?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Hire an authorized local village guide at the entry gate; their fee directly funds community school projects."
+  },
+  {
+    "id": "mon-konyak-headhunters",
+    "name": "Mon & Longwa (Konyak Naga Heartland)",
+    "state": "Nagaland",
+    "district": "Mon",
+    "category": "Cultural",
+    "short_description": "The mystical realm of the tattooed Konyak elders, featuring Longwa village where the international border divides the King's house.",
+    "detailed_description": "Mon is the ancestral domain of the Konyak Nagas, historic warriors famous for facial tattoos (Yingkor) and brass skull necklaces. In Longwa village, the chief's (Angh's) enormous timber longhouse straddles the Indo-Myanmar border: the Angh dines in India and sleeps in Myanmar!",
+    "latitude": 26.75,
+    "longitude": 95.1,
+    "best_season": "October to April (Aoleang Festival in early April)",
+    "duration": "3 to 4 Days",
+    "budget_range": "₹3,000 - ₹6,500 / day",
+    "activities": [
+      "Interacting with Konyak Tattooed Elders",
+      "Visiting Longwa Border Longhouse",
+      "Blacksmith and Gun-making Workshops",
+      "Aoleang Spring Festival"
+    ],
+    "accessibility": "Reached via Sonari or Simimalguri in Assam (5-6 hours drive); rugged mountain terrain.",
+    "traveller_types": [
+      "Anthropology Enthusiasts",
+      "Culture Explorers",
+      "Photographers"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1596401057633-54a8fe8ef647?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Approach village elders with deep respect. Always ask politely and offer a modest token of appreciation before taking photographs."
+  },
+  {
+    "id": "mokokchung-ao-naga",
+    "name": "Mokokchung & Ungma Village",
+    "state": "Nagaland",
+    "district": "Mokokchung",
+    "category": "Cultural",
+    "short_description": "The intellectual and cultural epicenter of the Ao Naga tribe, with storybook villages and the Moatsu spring festival.",
+    "detailed_description": "Mokokchung is surrounded by hills clothed in tea bushes and bamboo. Nearby Ungma is the oldest and largest Ao village, preserving ancient log drums (Tsungkong), while Mopungchuket village features the romantic romance tower of Jina and Etiben (the Naga Romeo and Juliet).",
+    "latitude": 26.3256,
+    "longitude": 94.52,
+    "best_season": "October to May (Moatsu Festival in early May)",
+    "duration": "2 to 3 Days",
+    "budget_range": "₹2,200 - ₹4,800 / day",
+    "activities": [
+      "Beating the Massive Village Log Drum",
+      "Exploring Mopungchuket Sculptures",
+      "Visiting Old Ungma Heritage Sites",
+      "Tasting Anishi Smoked Taro Pork"
+    ],
+    "accessibility": "145 km (4-5 hours drive) from Jorhat or Kohima along NH2.",
+    "traveller_types": [
+      "Cultural Enthusiasts",
+      "Slow Travellers",
+      "Writers"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Expect peaceful quiet early evenings as village life winds down after sunset. Inner Line Permit required."
+  },
+  {
+    "id": "benreu-mount-pauna",
+    "name": "Benreu & Mount Pauna",
+    "state": "Nagaland",
+    "district": "Peren",
+    "category": "Offbeat",
+    "short_description": "An authentic Zeliang tribal village perched at 1,950m under Mount Pauna, retaining animist morungs and herbal remedies.",
+    "detailed_description": "Benreu is an untouched hilltop settlement of the Zeliangrong Nagas. Almost completely wooden, it has preserved traditional dormitories, animist standing stones, and stone pathways. Trekkers climb Mount Pauna (Nagaland's 3rd highest peak) to spot ginseng plants and rare hornbills.",
+    "latitude": 25.5667,
+    "longitude": 93.75,
+    "best_season": "October to April",
+    "duration": "2 Days",
+    "budget_range": "₹1,800 - ₹3,800 / day",
+    "activities": [
+      "Mount Pauna Nature Summit Hike",
+      "Zeliang Traditional Folk Dance Evenings",
+      "Village Morung Architecture Tour",
+      "Forest Herbal Plant Learning"
+    ],
+    "accessibility": "65 km from Dimapur or 45 km from Khonoma along rural hill tracks.",
+    "traveller_types": [
+      "Offbeat Backpackers",
+      "Ecotourists",
+      "Peace Seekers"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Accommodation consists of community-run traditional homestays. Bring your own toiletries and warm fleece."
+  },
+  {
+    "id": "ujjayanta-palace-agartala",
+    "name": "Ujjayanta Palace & State Museum",
+    "state": "Tripura",
+    "district": "West Tripura",
+    "category": "Historical",
+    "short_description": "The dazzling neoclassical royal palace of the Manikya dynasty set in Mughal-style gardens in Agartala.",
+    "detailed_description": "Built in 1901 by Maharaja Radha Kishore Manikya, Ujjayanta Palace is a gleaming white palace featuring tiled floors, curved wooden ceilings, and grand carved doors. Now housing the State Museum, it presents the largest collection of Northeast tribal arts, royal regalia, and archaeological sculptures.",
+    "latitude": 23.8364,
+    "longitude": 91.2828,
+    "best_season": "October to March",
+    "duration": "1 Day",
+    "budget_range": "₹1,500 - ₹3,500 / day",
+    "activities": [
+      "Museum Royal Artifacts Tour",
+      "Musical Fountain Gardens Walk",
+      "Visiting Nearby Jagannath Temple",
+      "Tasting Mui Borok & Bangui Rice"
+    ],
+    "accessibility": "Located in central Agartala; 10 km from Maharaja Bir Bikram Airport.",
+    "traveller_types": [
+      "History Buffs",
+      "Families",
+      "Culture Enthusiasts"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1596401057633-54a8fe8ef647?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Museum is closed on Mondays and national holidays. Evening illumination is best viewed on weekends."
+  },
+  {
+    "id": "neermahal-water-palace",
+    "name": "Neermahal (Twijilikma Water Palace)",
+    "state": "Tripura",
+    "district": "Sipahijala",
+    "category": "Historical",
+    "short_description": "Eastern India's only water palace, floating like a romantic fortress in the center of Rudrasagar Lake.",
+    "detailed_description": "Constructed in 1930 by Maharaja Bir Bikram Kishore Manikya as his summer residence, Neermahal blends Hindu and Islamic Mughal architectural motifs with red-and-white sandstone towers, balconies, and water pavilions accessed by motorboats across Rudrasagar Lake.",
+    "latitude": 23.4936,
+    "longitude": 91.32,
+    "best_season": "October to March",
+    "duration": "1 Day",
+    "budget_range": "₹1,800 - ₹3,800 / day",
+    "activities": [
+      "Lake Boat Cruise to Neermahal",
+      "Palace Courtyard & Rooftop Exploration",
+      "Migratory Birdwatching on Rudrasagar Lake",
+      "Light and Sound Show"
+    ],
+    "accessibility": "53 km (1.5 hours drive) south of Agartala; well connected by highway.",
+    "traveller_types": [
+      "Photographers",
+      "Architecture Lovers",
+      "Couples",
+      "Families"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Last return boat from the palace leaves before twilight. Carry sun protection for the open lake boat ride."
+  },
+  {
+    "id": "unakoti-rock-carvings",
+    "name": "Unakoti Rock-Cut Bas-Reliefs",
+    "state": "Tripura",
+    "district": "Unakoti",
+    "category": "Spiritual",
+    "short_description": "The 'Angkor Wat of the Northeast': 99,99,999 ancient Shaivite colossal stone sculptures carved into a forested hillside.",
+    "detailed_description": "Dating back to the 7th-9th centuries, Unakoti (meaning 'one less than a crore') features a colossal 30-foot head of Lord Shiva (Unakotiswara Kal Bhairava) flanked by two warrior female deities and an enormous Ganesha panel carved directly into the living rock face beside a rushing mountain waterfall.",
+    "latitude": 24.3217,
+    "longitude": 92.0167,
+    "best_season": "October to April",
+    "duration": "1 to 2 Days",
+    "budget_range": "₹2,000 - ₹4,000 / day",
+    "activities": [
+      "Exploring Rock-Cut Sculpture Trails",
+      "Unakotiswara Kal Bhairava Viewing",
+      "Ashokastami Spring Festival",
+      "Nature Walks through Surma Valley"
+    ],
+    "accessibility": "178 km north of Agartala; nearest railhead is Kumarghat (20 km) or Kailashahar.",
+    "traveller_types": [
+      "Archaeology Lovers",
+      "Spiritual Seekers",
+      "Photographers"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1596401057633-54a8fe8ef647?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Stone steps down to the sculpture ravine can be wet and mossy; wear sturdy footwear with good grip."
+  },
+  {
+    "id": "jampui-hills-orange",
+    "name": "Jampui Hills (Land of Eternal Spring)",
+    "state": "Tripura",
+    "district": "North Tripura",
+    "category": "Nature",
+    "short_description": "Tripura's highest mountain range, famous for sweet orange orchards, lush Mizo villages, and rolling cloud panoramas.",
+    "detailed_description": "Bordering Mizoram at 3,000 ft, Jampui Hills enjoy a cool, spring-like climate year-round. Betlingshib (the highest peak in Tripura, 930m) offers panoramic views of Mizoram's mountain ranges and the Chittagong Hill Tracts. In autumn, the slopes turn bright orange during the Orange Festival.",
+    "latitude": 23.85,
+    "longitude": 92.2667,
+    "best_season": "October to March (November for Orange harvest)",
+    "duration": "2 Days",
+    "budget_range": "₹1,800 - ₹3,800 / day",
+    "activities": [
+      "Trek to Betlingshib Peak",
+      "Orange Orchard Harvesting",
+      "Mizo Village Homestay Experience",
+      "Sunrise from Vanghmun Ridge"
+    ],
+    "accessibility": "220 km from Agartala; connected via Dharmanagar.",
+    "traveller_types": [
+      "Nature Lovers",
+      "Couples",
+      "Ecotourists"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Roads in the hill section can have potholes after rains. Book Eden Tourist Lodge in Vanghmun in advance."
+  },
+  {
+    "id": "tripura-sundari-temple",
+    "name": "Tripura Sundari (Matabari) Temple",
+    "state": "Tripura",
+    "district": "Gomati",
+    "category": "Spiritual",
+    "short_description": "One of the 51 holy Shakti Peethas, shaped like a tortoise and revered for over 500 years in ancient Udaipur.",
+    "detailed_description": "Founded in 1501 AD by Maharaja Dhanya Manikya, the temple stands on a low hillock resembling a tortoise shell (Kurmapitha). It is dedicated to Goddess Kali (Tripura Sundari). Beside the temple lies the sacred Kalyan Sagar lake, populated by centuries-old giant softshell Bostami turtles.",
+    "latitude": 23.5333,
+    "longitude": 91.4833,
+    "best_season": "October to March (Diwali for grand Mela)",
+    "duration": "Half to 1 Day",
+    "budget_range": "₹1,200 - ₹2,500 / day",
+    "activities": [
+      "Temple Darshan & Puja",
+      "Feeding Sacred Giant Turtles at Kalyan Sagar",
+      "Exploring Lake City Udaipur Temples",
+      "Tasting Udaipur Famous Pera Sweet"
+    ],
+    "accessibility": "55 km (1.5 hours drive) from Agartala by train or highway.",
+    "traveller_types": [
+      "Spiritual Travellers",
+      "Families",
+      "Culture Enthusiasts"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1620619767323-b95a89183081?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Feeding processed food to the sacred turtles in Kalyan Sagar is prohibited to protect their digestive health."
+  },
+  {
+    "id": "chabimura-rock-sculptures",
+    "name": "Chabimura (Devtamura) Rock Panels",
+    "state": "Tripura",
+    "district": "Gomati",
+    "category": "Offbeat",
+    "short_description": "Spectacular 15th-century rock carvings of deities chiseled on vertical cliff walls rising directly out of the Gomati River.",
+    "detailed_description": "Known as the Amazon of Tripura, visiting Chabimura requires a boat cruise between sheer canyon cliff faces dripping with wild green vegetation. A giant 20-foot panel of Goddess Durga (Chakrak-ma) carved into the steep vertical cliff is the crowning highlight.",
+    "latitude": 23.5167,
+    "longitude": 91.7333,
+    "best_season": "October to April",
+    "duration": "1 Day",
+    "budget_range": "₹1,800 - ₹3,500 / day",
+    "activities": [
+      "Motorboat River Canyon Cruise",
+      "Viewing Colossal Cliff Carvings",
+      "Exploring River Caves",
+      "Picnicking by Gomati Sandbanks"
+    ],
+    "accessibility": "80 km from Agartala; boats depart from the Amarpur river jetty.",
+    "traveller_types": [
+      "Adventure Buffs",
+      "Archaeology Fans",
+      "Photographers"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Boat operations depend on water levels; carry waterproof covers for cameras and smartphones."
+  },
+  {
+    "id": "gurudongmar-lake-north-sikkim",
+    "name": "Gurudongmar Lake & Lachen",
+    "state": "Sikkim",
+    "district": "Mangan (North Sikkim)",
+    "category": "Spiritual",
+    "short_description": "One of the highest alpine lakes in the world (17,800 ft), considered sacred by Buddhists, Sikhs, and Hindus.",
+    "detailed_description": "Perched on a high Himalayan plateau just 5 km south of the Tibetan border, Gurudongmar is revered because a portion of its turquoise water remains unfrozen even in sub-zero winter, blessed according to legend by Guru Padmasambhava and Guru Nanak.",
+    "latitude": 28.0258,
+    "longitude": 88.7083,
+    "best_season": "April to June & October to November",
+    "duration": "2 to 3 Days",
+    "budget_range": "₹3,500 - ₹7,500 / day",
+    "activities": [
+      "Sacred Lake Circumambulation",
+      "Lachen Wooden Hamlet Exploration",
+      "Viewing Kangchengyao Peak",
+      "Chopta Valley Stroll"
+    ],
+    "accessibility": "Overnight stopover in Lachen (6-7 hours from Gangtok), followed by a 4-hour morning ascent across cold desert plateau.",
+    "traveller_types": [
+      "Adventure Seekers",
+      "Pilgrims",
+      "Photographers"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Extreme altitude (17,800 ft) causes low oxygen. Not recommended for children under 5 or those with severe respiratory/cardiac conditions. Special protected area permit required."
+  },
+  {
+    "id": "yumthang-valley-of-flowers",
+    "name": "Yumthang Valley of Flowers & Lachung",
+    "state": "Sikkim",
+    "district": "Mangan (North Sikkim)",
+    "category": "Nature",
+    "short_description": "An alpine river sanctuary blanketed with 24 species of wild blooming rhododendrons, hot springs, and Zero Point snows.",
+    "detailed_description": "Sitting at 11,693 ft along the Lachung River, Yumthang bursts into a kaleidoscopic carpet of red, purple, and yellow rhododendrons each spring. Further up lies Zero Point (Yumesamdong, 15,300 ft) where perpetual snowfields meet rugged Himalayan crags.",
+    "latitude": 27.8258,
+    "longitude": 88.6958,
+    "best_season": "March to May (for Flowers) & December to March (for Snow)",
+    "duration": "2 to 3 Days",
+    "budget_range": "₹3,000 - ₹6,500 / day",
+    "activities": [
+      "Rhododendron Sanctuary Walk",
+      "Natural Hot Spring Bath",
+      "Zero Point Snow Play",
+      "Lachung Traditional Wooden Monastery Visit"
+    ],
+    "accessibility": "Overnight in Lachung village (6 hours from Gangtok), then 1.5 hours drive to Yumthang.",
+    "traveller_types": [
+      "Nature Lovers",
+      "Couples",
+      "Families",
+      "Snow Enthusiasts"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Protected Area Permit required from Gangtok tourism office. Carry thermal layers and snow gloves."
+  },
+  {
+    "id": "gangtok-mg-marg-rumtek",
+    "name": "Gangtok & Rumtek Monastery",
+    "state": "Sikkim",
+    "district": "East Sikkim",
+    "category": "Cultural",
+    "short_description": "Sikkim's vibrant hill capital featuring pedestrian MG Marg, cable car rides, and the grand Kagyu seat at Rumtek.",
+    "detailed_description": "Gangtok marries contemporary mountain living with deep Buddhist traditions. The clean pedestrian promenade of MG Marg is lined with Himalayan bookstores and cafes. Across the valley stands Rumtek Dharma Chakra Centre, the largest monastery in Sikkim with rare thangkas and golden stupas.",
+    "latitude": 27.3389,
+    "longitude": 88.6065,
+    "best_season": "September to June",
+    "duration": "2 to 3 Days",
+    "budget_range": "₹2,500 - ₹6,500 / day",
+    "activities": [
+      "Strolling Pedestrian MG Marg",
+      "Rumtek Monastery Tour",
+      "Gangtok Ropeway Cable Car",
+      "Namgyal Institute of Tibetology Visit",
+      "Tasting Momos & Thukpa"
+    ],
+    "accessibility": "4 hours drive from Bagdogra Airport or New Jalpaiguri (NJP) railway station; Pakyong Airport has seasonal flights.",
+    "traveller_types": [
+      "Families",
+      "Solo Travellers",
+      "Foodies",
+      "Couples"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "MG Marg is a strict pedestrian and no-smoking zone with on-the-spot littering fines."
+  },
+  {
+    "id": "tsomgo-lake-baba-mandir-nathula",
+    "name": "Tsomgo Lake & Nathu La Pass",
+    "state": "Sikkim",
+    "district": "East Sikkim",
+    "category": "Adventure",
+    "short_description": "Glacial high-altitude lake at 12,310 ft and the historic Silk Route mountain pass connecting India to Tibet.",
+    "detailed_description": "Tsomgo (Changu) Lake reflects changing water colours across seasons and freezes completely in mid-winter. Further up along the steep mountain twists lies the Indo-China trade frontier at Nathu La Pass (14,140 ft) and the shrine of legendary Indian soldier Baba Harbhajan Singh.",
+    "latitude": 27.3742,
+    "longitude": 88.7619,
+    "best_season": "April to May & October to December",
+    "duration": "1 Day",
+    "budget_range": "₹2,500 - ₹5,000 / day",
+    "activities": [
+      "Decorated Yak Rides around Tsomgo",
+      "Tsomgo Ropeway Overlook",
+      "Standing on Indo-China Border at Nathu La",
+      "Visiting Baba Mandir"
+    ],
+    "accessibility": "40 km (2 hours drive) east of Gangtok along the Jawaharlal Nehru Road.",
+    "traveller_types": [
+      "Adventure Seekers",
+      "Families",
+      "Patriotic Travellers"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Nathu La is open only to Indian nationals (closed Mondays & Tuesdays for tourists). Advance permit with passport photos required."
+  },
+  {
+    "id": "pelling-skywalk-kanchenjunga",
+    "name": "Pelling & Glass Skywalk",
+    "state": "Sikkim",
+    "district": "Gyalshing (West Sikkim)",
+    "category": "Nature",
+    "short_description": "Panoramic front-row views of Mount Kangchenjunga, India's first glass skywalk, and the historic Pemayangtse Monastery.",
+    "detailed_description": "Pelling provides the closest unobstructed view of Kangchenjunga's five snowy peaks. Highlights include the Chenrezig Glass Skywalk suspended over misty hills, Pemayangtse Monastery (built in 1705), the sacred wish-fulfilling Khecheopalri Lake, and Rabdentse royal palace ruins.",
+    "latitude": 27.3167,
+    "longitude": 88.2333,
+    "best_season": "October to May",
+    "duration": "2 to 3 Days",
+    "budget_range": "₹2,200 - ₹5,500 / day",
+    "activities": [
+      "Walking the Glass Skywalk",
+      "Sunrise View over Mount Kangchenjunga",
+      "Touring Pemayangtse Monastery",
+      "Circumambulating Sacred Khecheopalri Lake"
+    ],
+    "accessibility": "125 km (4.5 hours drive) from Gangtok or 130 km from Siliguri.",
+    "traveller_types": [
+      "Nature Lovers",
+      "Couples",
+      "Spiritual Seekers",
+      "Photographers"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Clear mountain vistas are sharpest early morning before cloud cover rolls up the valley around noon."
+  },
+  {
+    "id": "yuksom-first-capital",
+    "name": "Yuksom & Goechala Base",
+    "state": "Sikkim",
+    "district": "Gyalshing (West Sikkim)",
+    "category": "Historical",
+    "short_description": "The first historic capital of Sikkim where the first Chogyal was crowned in 1642, and trailhead for the legendary Goecha La trek.",
+    "detailed_description": "Nestled in tranquil forest valleys, Yuksom preserves the stone coronation throne at Norbugang, Dubdi Monastery (the oldest monastery in Sikkim perched on a hilltop), and tranquil Karthok Lake. It is the starting trailhead for high-altitude expeditions into Kangchenjunga National Park.",
+    "latitude": 27.3694,
+    "longitude": 88.2208,
+    "best_season": "March to May & September to November",
+    "duration": "2 to 4 Days (or 8-10 days for Goecha La trek)",
+    "budget_range": "₹1,800 - ₹4,500 / day",
+    "activities": [
+      "Visiting Coronation Throne of Norbugang",
+      "Forest Hike to Dubdi Monastery",
+      "Starting Goecha La Trek",
+      "Tasting Local Millet Tongba"
+    ],
+    "accessibility": "40 km from Pelling; 5 hours drive from Gangtok.",
+    "traveller_types": [
+      "Trekkers",
+      "History Enthusiasts",
+      "Backpackers"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Trekking beyond Yuksom into Kangchenjunga National Park requires mandatory guide, yak support, and forest permits."
+  },
+  {
+    "id": "ravangla-buddha-park",
+    "name": "Ravangla & Buddha Park",
+    "state": "Sikkim",
+    "district": "Namchi (South Sikkim)",
+    "category": "Spiritual",
+    "short_description": "Home to the magnificent 130-foot golden Buddha statue set against towering snow peaks of Mount Narsing.",
+    "detailed_description": "Buddha Park (Tathagata Tsal) was consecrated by the 14th Dalai Lama in 2013 and features an enormous 130-foot copper-gilded statue of Lord Buddha enclosed within landscaped meditation grounds. Nearby Ralang Monastery is renowned for its grand Mahakala masked chaam dances.",
+    "latitude": 27.3,
+    "longitude": 88.3667,
+    "best_season": "September to May",
+    "duration": "1 to 2 Days",
+    "budget_range": "₹2,000 - ₹4,500 / day",
+    "activities": [
+      "Buddha Park Inner Sanctum Murals",
+      "Meditation in Quiet Gardens",
+      "Ralang Monastery Mask Dance Watching",
+      "Temi Tea Garden Visit"
+    ],
+    "accessibility": "65 km (2.5 hours drive) south of Gangtok; easily paired with Namchi.",
+    "traveller_types": [
+      "Spiritual Travellers",
+      "Families",
+      "Photographers"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1620619767323-b95a89183081?q=80&w=1000&auto=format&fit=crop",
+    "precautions": "Remove shoes before entering the inner museum and shrine room below the colossal statue."
+  }
+]

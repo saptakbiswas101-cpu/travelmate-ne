@@ -1,0 +1,178 @@
+[
+  {
+    "id": "assam",
+    "name": "Assam",
+    "capital": "Dispur (Guwahati)",
+    "tagline": "The Land of Red River and Blue Hills",
+    "nickname": "Gateway to Northeast India",
+    "description": "Famed for its world-renowned Assam tea, the mighty Brahmaputra river, rich biodiversity in Kaziranga and Manas, and exquisite Muga silk traditions.",
+    "permit_required": false,
+    "permit_details": "No Inner Line Permit (ILP) required for Indian or foreign nationals.",
+    "best_season": "October to April",
+    "hero_image": "https://images.unsplash.com/photo-1596401057633-54a8fe8ef647?q=80&w=1200&auto=format&fit=crop",
+    "coordinates": {
+      "lat": 26.1445,
+      "lng": 91.7362
+    },
+    "highlights": [
+      "One-horned Rhinoceros in Kaziranga",
+      "Majuli - World's Largest River Island",
+      "Kamakhya Shaktipeeth",
+      "Assam Tea Plantations"
+    ]
+  },
+  {
+    "id": "arunachal-pradesh",
+    "name": "Arunachal Pradesh",
+    "capital": "Itanagar",
+    "tagline": "The Land of Dawn-Lit Mountains",
+    "nickname": "Orchid State of India",
+    "description": "India's easternmost frontier blessed with snow-capped Himalayan peaks, pristine river valleys, ancient Monpa monasteries, and vibrant tribal cultures.",
+    "permit_required": true,
+    "permit_details": "Inner Line Permit (ILP) is required for Indian citizens (available online). Foreign tourists require a Protected Area Permit (PAP).",
+    "best_season": "October to April",
+    "hero_image": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?q=80&w=1200&auto=format&fit=crop",
+    "coordinates": {
+      "lat": 27.0844,
+      "lng": 93.6053
+    },
+    "highlights": [
+      "Tawang Monastery (India's Largest)",
+      "Ziro Valley Pine Groves & Apatani Culture",
+      "Sela Pass at 13,700 ft",
+      "Namdapha Rainforest"
+    ]
+  },
+  {
+    "id": "meghalaya",
+    "name": "Meghalaya",
+    "capital": "Shillong",
+    "tagline": "The Abode of Clouds",
+    "nickname": "Scotland of the East",
+    "description": "A highland wonderland of living root bridges, mystical limestone caves, cascading plunges like Nohkalikai, and sacred groves protected by Khasi, Jaintia, and Garo clans.",
+    "permit_required": false,
+    "permit_details": "No Inner Line Permit required for Indian or international tourists.",
+    "best_season": "September to May (Post-monsoon and Winter)",
+    "hero_image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=1200&auto=format&fit=crop",
+    "coordinates": {
+      "lat": 25.5788,
+      "lng": 91.8933
+    },
+    "highlights": [
+      "Double Decker Living Root Bridge in Cherrapunji",
+      "Crystal clear Umngot River at Dawki",
+      "Nohkalikai Waterfall",
+      "Mawlynnong Cleanest Village"
+    ]
+  },
+  {
+    "id": "manipur",
+    "name": "Manipur",
+    "capital": "Imphal",
+    "tagline": "The Jeweled Land",
+    "nickname": "Jewel of India",
+    "description": "Home to the world's only floating national park on Loktak Lake, the classical Manipuri Raas Leela dance, polo birthplace, and the matriarchal Ima Keithel market.",
+    "permit_required": true,
+    "permit_details": "Inner Line Permit (ILP) required for domestic Indian travellers (obtained online or at arrival counters).",
+    "best_season": "October to March",
+    "hero_image": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?q=80&w=1200&auto=format&fit=crop",
+    "coordinates": {
+      "lat": 24.817,
+      "lng": 93.9368
+    },
+    "highlights": [
+      "Floating Phumdis of Loktak Lake",
+      "Keibul Lamjao (Sangai Deer Sanctuary)",
+      "Ima Keithel (All-Women Market)",
+      "Kangla Fort"
+    ]
+  },
+  {
+    "id": "mizoram",
+    "name": "Mizoram",
+    "capital": "Aizawl",
+    "tagline": "Land of the Rolling Hills",
+    "nickname": "Songbird of the East",
+    "description": "Characterized by rolling bamboo hills, pristine cloudscapes, warm community camaraderie, vibrant handloom shawls, and rhythmic Cheraw bamboo dances.",
+    "permit_required": true,
+    "permit_details": "Inner Line Permit (ILP) required for domestic visitors. Available online or at Lengpui Airport.",
+    "best_season": "October to April",
+    "hero_image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?q=80&w=1200&auto=format&fit=crop",
+    "coordinates": {
+      "lat": 23.7271,
+      "lng": 92.7176
+    },
+    "highlights": [
+      "Vantawng Falls - Highest in Mizoram",
+      "Phawngpui Blue Mountain Peak",
+      "Reiek Mountain Ridge",
+      "Aizawl Skyline & Solomons Temple"
+    ]
+  },
+  {
+    "id": "nagaland",
+    "name": "Nagaland",
+    "capital": "Kohima",
+    "tagline": "Land of Festivals",
+    "nickname": "Falcon Capital of the World",
+    "description": "A rugged paradise of 16 recognized indigenous tribes, heroic warrior folklore, emerald rolling valleys like Dzukou, and the world-famous Hornbill Festival.",
+    "permit_required": true,
+    "permit_details": "Inner Line Permit (ILP) is required for domestic travellers. Foreign nationals must register with the local FRRO.",
+    "best_season": "October to May (December for Hornbill Festival)",
+    "hero_image": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?q=80&w=1200&auto=format&fit=crop",
+    "coordinates": {
+      "lat": 25.6751,
+      "lng": 94.1086
+    },
+    "highlights": [
+      "Hornbill Festival at Kisama Heritage Village",
+      "Dzukou Valley Trek & Lilies",
+      "Khonoma Green Village",
+      "Kohima War Cemetery"
+    ]
+  },
+  {
+    "id": "tripura",
+    "name": "Tripura",
+    "capital": "Agartala",
+    "tagline": "Where Royalty Meets Tranquility",
+    "nickname": "Queen of the Hills",
+    "description": "Rich in royal history with the gleaming white Ujjayanta and floating Neermahal palaces, alongside mystical rock-cut sculptures at Unakoti and Debtamura.",
+    "permit_required": false,
+    "permit_details": "No Inner Line Permit required for Indian or foreign travellers.",
+    "best_season": "October to March",
+    "hero_image": "https://images.unsplash.com/photo-1596401057633-54a8fe8ef647?q=80&w=1200&auto=format&fit=crop",
+    "coordinates": {
+      "lat": 23.8315,
+      "lng": 91.2868
+    },
+    "highlights": [
+      "Ujjayanta Palace & Heritage Park",
+      "Neermahal Water Palace on Rudrasagar Lake",
+      "Unakoti Rock-Cut Bas-Reliefs",
+      "Jampui Hills Orange Country"
+    ]
+  },
+  {
+    "id": "sikkim",
+    "name": "Sikkim",
+    "capital": "Gangtok",
+    "tagline": "Valley of Rice and Sacred Peaks",
+    "nickname": "Land of Kangchenjunga",
+    "description": "An eco-haven cradled beneath Mount Kangchenjunga (8,586m) boasting sacred alpine lakes, ancient Tibetan Buddhist monasteries, and vibrant rhododendron valleys.",
+    "permit_required": false,
+    "permit_details": "No ILP for Indian citizens for general entry. Special permits required for Nathu La, Tsomgo Lake, Gurudongmar, and North Sikkim borders.",
+    "best_season": "March to May & October to mid-December",
+    "hero_image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?q=80&w=1200&auto=format&fit=crop",
+    "coordinates": {
+      "lat": 27.3389,
+      "lng": 88.6065
+    },
+    "highlights": [
+      "Gurudongmar Lake (17,800 ft)",
+      "Tsomgo Lake & Nathu La Pass",
+      "Rumtek Monastery",
+      "Yumthang Valley of Flowers"
+    ]
+  }
+]

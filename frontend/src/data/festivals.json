@@ -1,0 +1,387 @@
+[
+  {
+    "id": "rongali-bihu-assam",
+    "name": "Rongali (Bohag) Bihu",
+    "state": "Assam",
+    "period": "Mid-April (Celebrates Assamese New Year)",
+    "is_fixed_date": true,
+    "cultural_importance": "The chief festival of Assam marking the onset of the agricultural seeding season and Assamese New Year. Youth perform energetic Bihu dances with Dhol, Pepa (buffalo horn flute), and Gogona, exchanging handwoven Gamusas as tokens of love and respect.",
+    "location": "Statewide across Assam (Guwahati, Sivasagar, Majuli)",
+    "highlights": [
+      "Bihu Dance Competitions",
+      "Gamusas Gifting",
+      "Husori Village Performances",
+      "Feasting on Pitha and Laru"
+    ]
+  },
+  {
+    "id": "magh-bihu-assam",
+    "name": "Bhogali (Magh) Bihu",
+    "state": "Assam",
+    "period": "Mid-January (Harvest festival)",
+    "is_fixed_date": true,
+    "cultural_importance": "The harvest thanksgiving festival dedicated to the god of fire (Agni). Communities erect temporary thatch-and-bamboo pavilions (Meji & Bhelaghar) in fields, enjoy community feasts on Uruka night, and light the Meji at dawn.",
+    "location": "Statewide across rural Assam",
+    "highlights": [
+      "Lighting of Tall Meji Bonfires",
+      "Uruka Midnight Feasting",
+      "Traditional Buffalo & Egg Fights",
+      "Sesame Til Pitha"
+    ]
+  },
+  {
+    "id": "ambubachi-mela-assam",
+    "name": "Ambubachi Mela",
+    "state": "Assam",
+    "period": "June (Monsoon - Asad month)",
+    "is_fixed_date": false,
+    "cultural_importance": "Celebrates the annual menstruation of Mother Earth and Goddess Kamakhya atop Nilachal Hill. Millions of sadhus, tantric practitioners, and pilgrims assemble at Kamakhya Temple during the four-day sanctum closure.",
+    "location": "Kamakhya Temple, Guwahati",
+    "highlights": [
+      "Tantric Gathering & Devotional Songs",
+      "Distribution of Angodak & Raktavastra Sacred Cloth",
+      "Nilachal Hill Illumination"
+    ]
+  },
+  {
+    "id": "jonbeel-mela-assam",
+    "name": "Jonbeel Mela",
+    "state": "Assam",
+    "period": "Third weekend of January (Post-Magh Bihu)",
+    "is_fixed_date": false,
+    "cultural_importance": "A 500-year-old historic barter fair where Tiwa, Karbi, Khasi, and Jaintia hill tribes descend to exchange ginger, hill chillies, and herbs for plains rice, fish, and cakes without using any money.",
+    "location": "Dayang Belguri, Jonbeel, Jagiroad (Morigaon)",
+    "highlights": [
+      "Ancient Cashless Barter Trade",
+      "Tiwa Royal Court Assembly",
+      "Community Fish Hunting in Jonbeel Lake"
+    ]
+  },
+  {
+    "id": "ziro-music-festival",
+    "name": "Ziro Festival of Music (ZFM)",
+    "state": "Arunachal Pradesh",
+    "period": "Late September / Early October",
+    "is_fixed_date": false,
+    "cultural_importance": "India's greatest outdoor eco-friendly indie music gathering, held amid the pine-covered paddy fields of Ziro Valley. All festival stages are built using local sustainable bamboo and pine.",
+    "location": "Ziro Valley, Lower Subansiri",
+    "highlights": [
+      "Independent Indie Music Across Continents",
+      "Eco-friendly Bamboo Architecture",
+      "Apatani Rice Beer Tasting",
+      "Valley Camping"
+    ]
+  },
+  {
+    "id": "losar-festival-arunachal",
+    "name": "Monpa Losar Festival",
+    "state": "Arunachal Pradesh",
+    "period": "February / March (Tibetan Lunar New Year)",
+    "is_fixed_date": false,
+    "cultural_importance": "The 15-day Monpa celebration of the Tibetan Buddhist New Year in Tawang and West Kameng, featuring monastic prayers, prayer flag hoisting, butter lamp illuminations, and colourful pantomime Aji Lhamu mask dances.",
+    "location": "Tawang Monastery and Dirang",
+    "highlights": [
+      "Monastic Cham Dances",
+      "Raising of New Buddhist Prayer Flags",
+      "Traditional Guthuk Noodle Soup",
+      "Torgya Festival Rites"
+    ]
+  },
+  {
+    "id": "dree-festival-arunachal",
+    "name": "Dree Festival",
+    "state": "Arunachal Pradesh",
+    "period": "July 5th every year",
+    "is_fixed_date": true,
+    "cultural_importance": "The most important agricultural festival of the Apatani tribe, where prayers are offered to gods Tamu, Harniang, Metii, and Danyi to protect crops from pests, famine, and hail.",
+    "location": "Ziro Valley",
+    "highlights": [
+      "Sacrificial Prayers at Altar",
+      "Traditional Apatani Folk Dances (Daminda)",
+      "Distribution of Cucumber & Rice Beer",
+      "Community Sports"
+    ]
+  },
+  {
+    "id": "torgya-festival-tawang",
+    "name": "Torgya Monastic Festival",
+    "state": "Arunachal Pradesh",
+    "period": "January (28th day of 11th Monpa lunar month)",
+    "is_fixed_date": false,
+    "cultural_importance": "A three-day annual monastic festival at Tawang Monastery to ward off evil spirits, ensure agricultural prosperity, and invoke blessings through sacred monastic masked dances.",
+    "location": "Courtyard of Tawang Monastery",
+    "highlights": [
+      "Sacred Monastic Mask Dances (Cham)",
+      "Torma Sacred Cake Burning Ritual",
+      "Monk Orchestra with Long Alpine Horns"
+    ]
+  },
+  {
+    "id": "wangala-100-drums-meghalaya",
+    "name": "Wangala 100 Drums Festival",
+    "state": "Meghalaya",
+    "period": "Second week of November",
+    "is_fixed_date": false,
+    "cultural_importance": "The post-harvest thanksgiving festival of the Garo tribe, dedicated to Saljong, the Sun God of Fertility. A hundred drummers in feathered headgear play long oval drums (Dama) in rhythmic synchronized choreography.",
+    "location": "Asanang near Tura (Garo Hills)",
+    "highlights": [
+      "100 Synchronized Buffalo Horn Drummers",
+      "Garo Warrior Dance in Feathered Turbans",
+      "Indigenous Sports & Rice Beer Offerings"
+    ]
+  },
+  {
+    "id": "nongkrem-dance-meghalaya",
+    "name": "Nongkrem Dance Festival",
+    "state": "Meghalaya",
+    "period": "November (5 days)",
+    "is_fixed_date": false,
+    "cultural_importance": "A five-day annual Khasi thanksgiving dance at the royal court of the Syiem of Hima Khyrim in Smit to thank Almighty God (U Blei Nongthaw) for harvest and peace.",
+    "location": "Smit (15 km from Shillong)",
+    "highlights": [
+      "Unmarried Khasi Maidens in Gold Ornaments",
+      "Male Warriors with Silver Swords and Yak Whisks",
+      "Goat Sacrifice Ritual"
+    ]
+  },
+  {
+    "id": "behdienkhlam-meghalaya",
+    "name": "Behdienkhlam Festival",
+    "state": "Meghalaya",
+    "period": "July (Monsoon season)",
+    "is_fixed_date": false,
+    "cultural_importance": "The most significant cultural festival of the Jaintia (Pnar) community in Jowai, aimed at driving away the plague of evil spirits and pestilence through ceremonial dancing in sacred muddy pools.",
+    "location": "Jowai, West Jaintia Hills",
+    "highlights": [
+      "Carrying 30-foot Tall Painted Rot (Chariots)",
+      "Ceremonial Mud Pool Splash Dance",
+      "Dad-Mawankor Traditional Football Ritual"
+    ]
+  },
+  {
+    "id": "shillong-cherry-blossom",
+    "name": "Shillong Autumn & Cherry Blossom Festival",
+    "state": "Meghalaya",
+    "period": "Mid-November",
+    "is_fixed_date": false,
+    "cultural_importance": "Celebrates the unique autumn blooming of wild Himalayan cherry blossom trees (Prunus cerasoides) alongside indie rock concerts, cosplay, fashion showcases, and street food.",
+    "location": "Ward's Lake & Polo Grounds, Shillong",
+    "highlights": [
+      "Canopy of Pink Cherry Blossoms",
+      "International Indie Rock Bands",
+      "Street Food and Craft Wine Stalls"
+    ]
+  },
+  {
+    "id": "yaoshang-manipur",
+    "name": "Yaoshang (Manipuri Spring Festival)",
+    "state": "Manipur",
+    "period": "February / March (Full moon of Lamda)",
+    "is_fixed_date": false,
+    "cultural_importance": "Manipur's version of Holi, celebrated over five vibrant days with the burning of the Yaoshang bamboo hut, traditional Thabal Chongba (dancing by moonlight holding hands), and grand community sports tournaments.",
+    "location": "Statewide across the Manipur valley (Imphal)",
+    "highlights": [
+      "Thabal Chongba Midnight Ring Dancing",
+      "Five-day Youth Sports Tournaments",
+      "Nakatheng Door-to-Door Donations"
+    ]
+  },
+  {
+    "id": "sangai-festival-manipur",
+    "name": "Manipur Sangai Festival",
+    "state": "Manipur",
+    "period": "November 21 to 30 every year",
+    "is_fixed_date": true,
+    "cultural_importance": "The state's grand tourism extravaganza named after the rare Sangai deer, showcasing classical Manipuri Raas Leela dance, Sagol Kangjei (ancestral polo), indigenous martial arts (Thang-Ta), and handlooms.",
+    "location": "Hapta Kangjeibung & Loktak Lake, Imphal",
+    "highlights": [
+      "Classical Raas Leela Performances",
+      "Traditional Manipuri Polo Matches",
+      "Thang-Ta Martial Arts Demonstrations"
+    ]
+  },
+  {
+    "id": "cheiraoba-manipur",
+    "name": "Sajibu Nongma Panba (Cheiraoba)",
+    "state": "Manipur",
+    "period": "April (First day of Sajibu month)",
+    "is_fixed_date": false,
+    "cultural_importance": "The traditional Meitei lunar New Year, where families clean their homes, prepare lavish feasts offered to household deities, and climb nearby sacred hillocks (Cheiraoching) to symbolize rising to greater heights in life.",
+    "location": "Statewide across Manipur",
+    "highlights": [
+      "Climbing Local Sacred Hilltops",
+      "Exchange of Traditional Maturing Gifts",
+      "Elaborate Offerings of Traditional Delicacies"
+    ]
+  },
+  {
+    "id": "kang-rath-yatra-manipur",
+    "name": "Kang (Manipuri Rath Yatra)",
+    "state": "Manipur",
+    "period": "June / July (During monsoon)",
+    "is_fixed_date": false,
+    "cultural_importance": "The ten-day chariot procession of Lord Jagannath, Balabhadra, and Subhadra starting at Shri Govindaji Temple, celebrated with devotional Jayadeva chants, bell ringing, and feasts of seasonal sweets.",
+    "location": "Govindaji Temple, Imphal",
+    "highlights": [
+      "Pulling of the Grand Timber Ratha Chariot",
+      "Devotional Sankirtana and Pung Cholom Drum Dance",
+      "Evening Khichdi & Kheer Feasts"
+    ]
+  },
+  {
+    "id": "chapchar-kut-mizoram",
+    "name": "Chapchar Kut Festival",
+    "state": "Mizoram",
+    "period": "Early March (Celebrates post-jhum clearing)",
+    "is_fixed_date": false,
+    "cultural_importance": "The most joyous festival of the Mizos, celebrated after the bamboo jhum clearing is completed. Men and women wear colourful traditional Puanchei shawls and perform the famous Cheraw bamboo dance to drumbeats.",
+    "location": "Lammual Stadium, Aizawl and statewide",
+    "highlights": [
+      "World Record Cheraw Bamboo Dancing",
+      "Traditional Mizo Costume Parades",
+      "Gospel Music & Folk Melodies",
+      "Community Feasting"
+    ]
+  },
+  {
+    "id": "anthurium-festival-mizoram",
+    "name": "Anthurium Tourism Festival",
+    "state": "Mizoram",
+    "period": "September / October",
+    "is_fixed_date": false,
+    "cultural_importance": "Held amidst the blooming exotic red anthurium plantations at the foot of Reiek Mountain, highlighting floriculture, Mizo handloom weaving, archery, and fashion.",
+    "location": "Reiek Tourist Resort, Reiek",
+    "highlights": [
+      "Exotic Anthurium Flower Displays",
+      "Mizo Traditional Archery Contests",
+      "Rock Music and Acoustic Folk Shows"
+    ]
+  },
+  {
+    "id": "thalfavang-kut-mizoram",
+    "name": "Thalfavang Kut",
+    "state": "Mizoram",
+    "period": "November (Post-weeding festival)",
+    "is_fixed_date": false,
+    "cultural_importance": "Celebrated to mark the completion of weeding in the agricultural fields, bringing together various clans to perform folk dances like Khuallam, Chheihlam, and Tlanglam.",
+    "location": "Aizawl and rural Mizo villages",
+    "highlights": [
+      "Khuallam Welcome Dance with Shields",
+      "Chheihlam Circle Dance",
+      "Exhibition of Handloom Puan"
+    ]
+  },
+  {
+    "id": "hornbill-festival-nagaland",
+    "name": "The Hornbill Festival",
+    "state": "Nagaland",
+    "period": "December 1 to 10 every year",
+    "is_fixed_date": true,
+    "cultural_importance": "The world-famous 'Festival of Festivals' organized by the Government of Nagaland, uniting all 16 recognized Naga tribes at Kisama Heritage Village to revive tribal traditions, crafts, and music.",
+    "location": "Kisama Heritage Village near Kohima",
+    "highlights": [
+      "All 16 Naga Tribal Dances in Full Warrior Regalia",
+      "Naga King Chilli Eating Competition",
+      "Hornbill International Rock Concert",
+      "Naga Morung Architecture"
+    ]
+  },
+  {
+    "id": "moatsu-mong-nagaland",
+    "name": "Moatsu Mong Festival",
+    "state": "Nagaland",
+    "period": "First week of May (May 1-3)",
+    "is_fixed_date": true,
+    "cultural_importance": "The premier spring festival of the Ao Naga tribe in Mokokchung, celebrated after the completion of field sowing with singing, dancing, tug-of-war, and recounting ancient heroic battle stories.",
+    "location": "Mokokchung & Chuchuyimlang",
+    "highlights": [
+      "Sangpangtu Fire Clearing Ritual",
+      "Ao Traditional Courtship Dances",
+      "Warrior Songs & Indigenous Sports"
+    ]
+  },
+  {
+    "id": "sekrenyi-festival-nagaland",
+    "name": "Sekrenyi (Phousanyi) Festival",
+    "state": "Nagaland",
+    "period": "February 25 onwards (10 days)",
+    "is_fixed_date": true,
+    "cultural_importance": "The Angami Naga purification festival celebrated to cleanse the body, soul, and village of all misfortunes and illness before the start of agricultural operations.",
+    "location": "Kohima & Khonoma Green Village",
+    "highlights": [
+      "Ritual Morning Bathing at Sacred Village Springs",
+      "Male Warrior Regalia Cleaning",
+      "Making of Traditional Rice Beer (Zutho)"
+    ]
+  },
+  {
+    "id": "aoleang-monyu-konyak",
+    "name": "Aoleang Monyu Festival",
+    "state": "Nagaland",
+    "period": "First week of April (April 1-6)",
+    "is_fixed_date": true,
+    "cultural_importance": "The chief festival of the Konyak Naga tribe in Mon, celebrating the arrival of spring and seeking blessings for a bumper crop with traditional gun-firing and ceremonial war dances.",
+    "location": "Mon District & Longwa Village",
+    "highlights": [
+      "Konyak War Dances with Traditional Muzzle-loading Guns",
+      "Tattooed Elders Singing Folk Epics",
+      "Community Feasting on Smoked Meat"
+    ]
+  },
+  {
+    "id": "kharchi-puja-tripura",
+    "name": "Kharchi Puja (Worship of Fourteen Gods)",
+    "state": "Tripura",
+    "period": "July (Shukla Ashtami)",
+    "is_fixed_date": false,
+    "cultural_importance": "A centuries-old royal festival in Old Agartala where the Fourteen Dynastic Gods (Chaturdasha Devata) are worshipped and cleansed in the sacred Saidra (Howrah) River to purify the Earth after her menstruation.",
+    "location": "Chaturdasha Devata Temple, Old Agartala",
+    "highlights": [
+      "River Procession of the Fourteen Golden Deities",
+      "Grand Fair with Bengali and Tribal Crafts",
+      "Ritual Animal Offerings"
+    ]
+  },
+  {
+    "id": "garia-puja-tripura",
+    "name": "Garia Puja",
+    "state": "Tripura",
+    "period": "Seventh day of Baishakh (Mid-April)",
+    "is_fixed_date": false,
+    "cultural_importance": "An ancient tribal festival of prosperity celebrated by the Tripuri, Reang, and Jamatia communities. A bamboo pole representing Lord Garia is worshipped with dancing, music, and chanting.",
+    "location": "Statewide across rural Tripura",
+    "highlights": [
+      "Garia Dance with Sacred Bamboo Staff",
+      "Chaktoi and Berma Feasting",
+      "Community Prayers for Peace and Livestock"
+    ]
+  },
+  {
+    "id": "saga-dawa-sikkim",
+    "name": "Saga Dawa",
+    "state": "Sikkim",
+    "period": "May / June (Full moon of 4th Tibetan month)",
+    "is_fixed_date": false,
+    "cultural_importance": "The most sacred day in Tibetan Buddhism, commemorating the Birth, Enlightenment (Nirvana), and Parinirvana of Shakyamuni Buddha. Monks lead grand processions carrying sacred Kangyur scriptures through Gangtok.",
+    "location": "Tsuklakhang Palace Monastery & Rumtek, Gangtok",
+    "highlights": [
+      "Sacred Holy Relic Procession",
+      "Lighting Thousands of Butter Lamps",
+      "Releasing Animals into Freedom (Tsethar)"
+    ]
+  },
+  {
+    "id": "pang-lhabsol-sikkim",
+    "name": "Pang Lhabsol",
+    "state": "Sikkim",
+    "period": "August / September (15th day of 7th Tibetan month)",
+    "is_fixed_date": false,
+    "cultural_importance": "Unique to Sikkim: commemorates the historic blood brotherhood treaty between the Lepcha and Bhutia tribes, and pays homage to Mount Kangchenjunga as the guardian deity of the realm.",
+    "location": "Tsuklakhang Palace, Gangtok & Rabdentse",
+    "highlights": [
+      "Spectacular Warrior Dance (Dzongkor)",
+      "Kangchenjunga Mask Dance by Lhadak",
+      "Re-enactment of Ancient Blood Oath"
+    ]
+  }
+]

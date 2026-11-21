@@ -1,0 +1,55 @@
+{
+  "disclaimer": "All figures are illustrative estimates based on actual Northeast travel averages. Prices fluctuate with seasonality and fuel rates.",
+  "tiers": {
+    "budget": {
+      "name": "Backpacker & Student",
+      "daily_per_person_inr": 1800,
+      "accommodation": "Hostel / Local Stilt Homestay (₹700 - ₹1,200/night)",
+      "food": "Local markets, Dhabas, authentic ethnic thalis (₹400 - ₹600/day)",
+      "transport": "Shared Sumos, state buses, local shared autos (₹400 - ₹700/day)",
+      "activities": "Self-guided nature walks, public viewpoint tickets (₹200 - ₹400/day)"
+    },
+    "mid_range": {
+      "name": "Comfort & Explorer",
+      "daily_per_person_inr": 3800,
+      "accommodation": "3-star Boutique Hotel / Premium Heritage Homestay (₹2,500 - ₹4,000/night)",
+      "food": "Reputed restaurants, authentic multi-course thalis, cafes (₹800 - ₹1,400/day)",
+      "transport": "Dedicated private hatchback / shared SUV rental (₹1,500 - ₹2,500/day per group)",
+      "activities": "National Park safaris, certified local guides, entry passes (₹600 - ₹1,200/day)"
+    },
+    "luxury": {
+      "name": "Premium & Experiential",
+      "daily_per_person_inr": 8500,
+      "accommodation": "Luxury Tea Estate Bungalow / 4-5 Star Mountain Resort (₹7,500 - ₹18,000/night)",
+      "food": "Curated royal & tribal degustation menus, fine dining (₹1,800 - ₹3,500/day)",
+      "transport": "Dedicated private 4WD SUV (Innova Crysta / Scorpio) with chauffeur (₹4,500 - ₹6,500/day)",
+      "activities": "Private elephant/jeep safaris, private river yacht, cultural troupe bookings (₹2,000+/day)"
+    }
+  },
+  "typical_trip_estimates": [
+    {
+      "duration_days": 3,
+      "travel_style": "Budget",
+      "total_estimated_inr": 5400,
+      "description": "Quick weekend in Shillong & Cherrapunji or Kaziranga."
+    },
+    {
+      "duration_days": 5,
+      "travel_style": "Comfort",
+      "total_estimated_inr": 19000,
+      "description": "5-day Meghalaya Wonders (Shillong, Cherrapunji, Dawki, Mawlynnong)."
+    },
+    {
+      "duration_days": 7,
+      "travel_style": "Comfort",
+      "total_estimated_inr": 26600,
+      "description": "Classic Assam & Meghalaya or West Sikkim circuit."
+    },
+    {
+      "duration_days": 10,
+      "travel_style": "Adventure",
+      "total_estimated_inr": 42000,
+      "description": "Comprehensive Arunachal or Nagaland Hornbill & Dzukou expedition."
+    }
+  ]
+}

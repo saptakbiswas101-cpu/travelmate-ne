@@ -1,0 +1,570 @@
+[
+  {
+    "id": "khar-assam",
+    "name": "Omita Khar",
+    "state": "Assam",
+    "community": "Assamese",
+    "description": "The quintessential Assamese palate starter prepared with raw papaya and an indigenous alkaline liquid filtered from charred sundried banana peels (Kolakhar).",
+    "category": "Curry / Traditional Starter",
+    "is_vegetarian": true,
+    "image_url": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?q=80&w=800&auto=format&fit=crop",
+    "ingredients": [
+      "Raw Papaya",
+      "Kolakhar (Banana Peel Alkaline Extract)",
+      "Mustard Oil",
+      "Panch Phoron",
+      "Green Chillies"
+    ],
+    "taste_profile": "Earthy, mild, comforting alkaline note"
+  },
+  {
+    "id": "masor-tenga-assam",
+    "name": "Masor Tenga",
+    "state": "Assam",
+    "community": "Assamese",
+    "description": "A light, refreshing sour fish curry infused with elephant apple (Ou Tenga), tomatoes, or lemon, served warm over steamed Joha rice.",
+    "category": "Fish Main Course",
+    "is_vegetarian": false,
+    "image_url": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?q=80&w=800&auto=format&fit=crop",
+    "ingredients": [
+      "Fresh River Rohu / Katla Fish",
+      "Tomatoes / Ou Tenga",
+      "Mustard Oil",
+      "Fenugreek Seeds",
+      "Turmeric"
+    ],
+    "taste_profile": "Tangy, light, aromatic, revitalizing"
+  },
+  {
+    "id": "duck-black-sesame-assam",
+    "name": "Hahor Mangxo aru Kola Til",
+    "state": "Assam",
+    "community": "Assamese",
+    "description": "A celebrated festive delicacy of slow-cooked duck meat simmered in a thick, rich gravy of roasted black sesame seed paste and ginger.",
+    "category": "Poultry Main Course",
+    "is_vegetarian": false,
+    "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800&auto=format&fit=crop",
+    "ingredients": [
+      "Local Duck Meat",
+      "Roasted Black Sesame Paste",
+      "Garlic",
+      "Ginger",
+      "Black Pepper"
+    ],
+    "taste_profile": "Nutty, robust, rich, deeply savoury"
+  },
+  {
+    "id": "pitha-laru-assam",
+    "name": "Til Pitha & Ghila Pitha",
+    "state": "Assam",
+    "community": "Assamese",
+    "description": "Traditional cylindrical rolled rice cakes stuffed with roasted black sesame and molten jaggery, prepared during Magh Bihu festival.",
+    "category": "Traditional Snack / Sweet",
+    "is_vegetarian": true,
+    "image_url": "https://images.unsplash.com/photo-1509440159596-0249088772ff?q=80&w=800&auto=format&fit=crop",
+    "ingredients": [
+      "Bora Saul (Sticky Rice)",
+      "Black Sesame",
+      "Date Palm Jaggery",
+      "Grated Coconut"
+    ],
+    "taste_profile": "Crisp exterior, chewy sweet sesame heart"
+  },
+  {
+    "id": "thukpa-arunachal",
+    "name": "Monpa Thukpa",
+    "state": "Arunachal Pradesh",
+    "community": "Monpa",
+    "description": "A warming Himalayan handmade noodle soup simmered in fragrant vegetable or chicken broth with seasonal greens, garlic, and Sichuan pepper.",
+    "category": "Himalayan Noodle Soup",
+    "is_vegetarian": false,
+    "image_url": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?q=80&w=800&auto=format&fit=crop",
+    "ingredients": [
+      "Handmade Wheat Noodles",
+      "Chicken / Vegetables",
+      "Cabbage",
+      "Ginger",
+      "Sichuan Pepper"
+    ],
+    "taste_profile": "Comforting, warm, fragrant, wholesome"
+  },
+  {
+    "id": "pika-pila-arunachal",
+    "name": "Pika Pila",
+    "state": "Arunachal Pradesh",
+    "community": "Apatani",
+    "description": "A famous traditional Apatani condiment made by boiling pork fat, bamboo shoot paste, king chillies, and filtered plant ash liquid.",
+    "category": "Chutney / Condiment",
+    "is_vegetarian": false,
+    "image_url": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?q=80&w=800&auto=format&fit=crop",
+    "ingredients": [
+      "Pork Fat / Smoked Pork",
+      "Fermented Bamboo Shoot",
+      "Bhut Jolokia Chillies",
+      "Plant Ash"
+    ],
+    "taste_profile": "Fiery, pungent, deeply savoury"
+  },
+  {
+    "id": "lukter-arunachal",
+    "name": "Lukter",
+    "state": "Arunachal Pradesh",
+    "community": "Nyishi",
+    "description": "Dry roasted smoked beef or pork flakes pounded together with roasted fiery king chillies and local aromatic Sichuan peppercorns.",
+    "category": "Meat Side / Appetizer",
+    "is_vegetarian": false,
+    "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800&auto=format&fit=crop",
+    "ingredients": [
+      "Smoked Dried Meat",
+      "Roasted King Chilli",
+      "Sichuan Peppercorns",
+      "Garlic"
+    ],
+    "taste_profile": "Smoky, intensely spicy, crunchy"
+  },
+  {
+    "id": "chura-kampo-arunachal",
+    "name": "Chura Kampo (Yak Cheese Soup)",
+    "state": "Arunachal Pradesh",
+    "community": "Monpa / Sherdukpen",
+    "description": "Traditional dried artisan yak cheese cubes melted into a hearty broth with wild mountain herbs, eaten with steamed tingmo bread.",
+    "category": "Soup / Traditional Cheese",
+    "is_vegetarian": true,
+    "image_url": "https://images.unsplash.com/photo-1547592180-85f173990554?q=80&w=800&auto=format&fit=crop",
+    "ingredients": [
+      "Dried Yak Cheese (Chhurpi)",
+      "Wild Garlic",
+      "Local Butter",
+      "Mountain Herbs"
+    ],
+    "taste_profile": "Tangy, creamy, rich, warming"
+  },
+  {
+    "id": "jadoh-meghalaya",
+    "name": "Jadoh",
+    "state": "Meghalaya",
+    "community": "Khasi",
+    "description": "The signature dish of Meghalaya: short-grained hill rice slow-cooked with tender pork pieces, ginger, onions, and rich meat broth.",
+    "category": "Rice Specialty",
+    "is_vegetarian": false,
+    "image_url": "https://images.unsplash.com/photo-1512058564366-18510be2db19?q=80&w=800&auto=format&fit=crop",
+    "ingredients": [
+      "Khasi Red Rice",
+      "Pork Cuts",
+      "Black Sesame / Meat Stock",
+      "Ginger",
+      "Bay Leaves"
+    ],
+    "taste_profile": "Subtly spiced, aromatic, hearty, savory"
+  },
+  {
+    "id": "dohneiiong-meghalaya",
+    "name": "Dohneiiong",
+    "state": "Meghalaya",
+    "community": "Khasi",
+    "description": "Succulent pork stewed in a dark, thick paste made from roasted black sesame seeds (Nei-iong) and aromatic garlic.",
+    "category": "Meat Main Course",
+    "is_vegetarian": false,
+    "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800&auto=format&fit=crop",
+    "ingredients": [
+      "Pork Belly",
+      "Roasted Black Sesame Paste",
+      "Garlic",
+      "Ginger",
+      "Green Chillies"
+    ],
+    "taste_profile": "Earthy, velvety, nutty, comforting"
+  },
+  {
+    "id": "tungrymbai-meghalaya",
+    "name": "Tungrymbai",
+    "state": "Meghalaya",
+    "community": "Khasi / Jaintia",
+    "description": "A beloved daily delicacy of fermented indigenous soybeans cooked with black sesame, pork pieces, and ginger.",
+    "category": "Traditional Stew",
+    "is_vegetarian": false,
+    "image_url": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?q=80&w=800&auto=format&fit=crop",
+    "ingredients": [
+      "Fermented Soybeans",
+      "Black Sesame",
+      "Pork Bits",
+      "Ginger",
+      "Garlic"
+    ],
+    "taste_profile": "Pungent, deeply umami, rich, hearty"
+  },
+  {
+    "id": "pukhlein-meghalaya",
+    "name": "Pukhlein",
+    "state": "Meghalaya",
+    "community": "Khasi",
+    "description": "A delightfully crispy, golden teatime sweet made with simple ingredients: powdered rice flour and molten jaggery deep-fried in hot oil.",
+    "category": "Teatime Snack / Sweet",
+    "is_vegetarian": true,
+    "image_url": "https://images.unsplash.com/photo-1509440159596-0249088772ff?q=80&w=800&auto=format&fit=crop",
+    "ingredients": [
+      "Local Rice Powder",
+      "Jaggery (Cane Sugar)",
+      "Mustard / Cooking Oil"
+    ],
+    "taste_profile": "Crunchy crust, chewy caramel jaggery center"
+  },
+  {
+    "id": "eromba-manipur",
+    "name": "Eromba",
+    "state": "Manipur",
+    "community": "Meitei",
+    "description": "An iconic Manipuri comfort dish prepared by mashing boiled vegetables and potatoes with fermented sun-dried fish (Ngari) and ghost chillies.",
+    "category": "Mashed Side / Chutney",
+    "is_vegetarian": false,
+    "image_url": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?q=80&w=800&auto=format&fit=crop",
+    "ingredients": [
+      "Boiled Potatoes & Bamboo Shoots",
+      "Ngari (Fermented Fish)",
+      "King Chilli (U-Morok)",
+      "Coriander",
+      "Chameleon Plant Herbs"
+    ],
+    "taste_profile": "Fiery, intense umami, aromatic, piquant"
+  },
+  {
+    "id": "kangshoi-manipur",
+    "name": "Kangshoi",
+    "state": "Manipur",
+    "community": "Meitei",
+    "description": "A light, healthy soupy vegetable stew cooked with seasonal organic greens, dried fish or fried fish, sliced onions, and maroi herbs.",
+    "category": "Vegetable & Fish Stew",
+    "is_vegetarian": false,
+    "image_url": "https://images.unsplash.com/photo-1547592180-85f173990554?q=80&w=800&auto=format&fit=crop",
+    "ingredients": [
+      "Seasonal Greens",
+      "Ngari / Fried Fish",
+      "Ginger",
+      "Maroi Nakupi (Chinese Chives)",
+      "Cloves"
+    ],
+    "taste_profile": "Delicate, clean, herbal, warming"
+  },
+  {
+    "id": "singju-manipur",
+    "name": "Singju",
+    "state": "Manipur",
+    "community": "Meitei",
+    "description": "A vibrant and fiery raw indigenous salad made with lotus stem, cabbage, stink beans (yongchak), roasted perilla seeds, and chilli paste.",
+    "category": "Raw Salad / Street Snack",
+    "is_vegetarian": true,
+    "image_url": "https://images.unsplash.com/photo-1540420773420-3366772f4999?q=80&w=800&auto=format&fit=crop",
+    "ingredients": [
+      "Lotus Stem / Cabbage",
+      "Roasted Perilla Seeds (Thoiding)",
+      "Roasted Gram Powder",
+      "U-Morok Chillies",
+      "Salt"
+    ],
+    "taste_profile": "Crisp, tongue-tingling spicy, nutty"
+  },
+  {
+    "id": "chakhao-kheer-manipur",
+    "name": "Chak-Hao Kheer",
+    "state": "Manipur",
+    "community": "Meitei",
+    "description": "A stunning purple-hued dessert porridge made with GI-tagged Manipuri black aromatic sticky rice slow-simmered in milk and cardamom.",
+    "category": "Traditional Dessert",
+    "is_vegetarian": true,
+    "image_url": "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?q=80&w=800&auto=format&fit=crop",
+    "ingredients": [
+      "Chak-Hao (Black Rice)",
+      "Full Cream Milk",
+      "Sugar",
+      "Cardamom",
+      "Cashews & Bay Leaf"
+    ],
+    "taste_profile": "Floral, nutty, creamy, visually striking purple"
+  },
+  {
+    "id": "bai-mizoram",
+    "name": "Mizo Bai",
+    "state": "Mizoram",
+    "community": "Mizo",
+    "description": "The quintessential Mizo vegetable broth cooked without oil using fresh local greens, mustard leaves, bamboo shoot, and local cooking soda (chingal).",
+    "category": "Soup / Broth",
+    "is_vegetarian": true,
+    "image_url": "https://images.unsplash.com/photo-1547592180-85f173990554?q=80&w=800&auto=format&fit=crop",
+    "ingredients": [
+      "Mustard Leaves / French Beans",
+      "Pork Fat or Plain (Veg)",
+      "Fermented Bamboo Shoot",
+      "Chingal (Alkaline Filter)",
+      "Green Chillies"
+    ],
+    "taste_profile": "Herbal, comforting, completely oil-free"
+  },
+  {
+    "id": "vawksa-rep-mizoram",
+    "name": "Vawksa Rep Chhum",
+    "state": "Mizoram",
+    "community": "Mizo",
+    "description": "Traditional Mizo smoked pork cubes boiled tender with mustard leaf greens, local herbs, and fiery mountain bird's eye chillies.",
+    "category": "Meat Main Course",
+    "is_vegetarian": false,
+    "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800&auto=format&fit=crop",
+    "ingredients": [
+      "Wood-Smoked Pork",
+      "Mustard Leaves",
+      "Ginger",
+      "Hmarchadaung (Bird's Eye Chillies)",
+      "Salt"
+    ],
+    "taste_profile": "Intensely smoky, tender, subtly spiced"
+  },
+  {
+    "id": "sawhchiar-mizoram",
+    "name": "Sawhchiar",
+    "state": "Mizoram",
+    "community": "Mizo",
+    "description": "A beloved celebratory rice porridge cooked with shredded chicken or pork, ginger, and fragrant local bay leaves.",
+    "category": "Rice Porridge / Congee",
+    "is_vegetarian": false,
+    "image_url": "https://images.unsplash.com/photo-1512058564366-18510be2db19?q=80&w=800&auto=format&fit=crop",
+    "ingredients": [
+      "Short Grain Rice",
+      "Pork / Chicken",
+      "Onion",
+      "Ginger",
+      "Black Pepper"
+    ],
+    "taste_profile": "Creamy, savoury, heartwarming comfort food"
+  },
+  {
+    "id": "chhum-han-mizoram",
+    "name": "Chhum Han",
+    "state": "Mizoram",
+    "community": "Mizo",
+    "description": "Steamed fresh mixed mountain vegetables like sweet pumpkin, yam leaves, and cabbage, served alongside spicy dips at every Mizo meal.",
+    "category": "Steamed Vegetable Side",
+    "is_vegetarian": true,
+    "image_url": "https://images.unsplash.com/photo-1540420773420-3366772f4999?q=80&w=800&auto=format&fit=crop",
+    "ingredients": [
+      "Tender Pumpkin",
+      "Cabbage",
+      "Long Beans",
+      "Yam Leaves"
+    ],
+    "taste_profile": "Natural sweet vegetal flavors, clean"
+  },
+  {
+    "id": "smoked-pork-axone-nagaland",
+    "name": "Smoked Pork with Axone (Akhuni)",
+    "state": "Nagaland",
+    "community": "Sumi Naga",
+    "description": "The world-famous Naga delicacy of hearth-smoked pork simmered with fermented soybean paste (Axone), king chilli, and ginger.",
+    "category": "Meat Main Course",
+    "is_vegetarian": false,
+    "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800&auto=format&fit=crop",
+    "ingredients": [
+      "Hearth-Smoked Pork",
+      "Axone (Fermented Soy Cake)",
+      "Naga King Chilli (Raja Mircha)",
+      "Ginger",
+      "Tomatoes"
+    ],
+    "taste_profile": "Intense smoke, deep pungent umami, blazing heat"
+  },
+  {
+    "id": "smoked-pork-bamboo-shoot-nagaland",
+    "name": "Pork with Fermented Bamboo Shoot",
+    "state": "Nagaland",
+    "community": "Ao / Angami Naga",
+    "description": "Tender pieces of pork stewed with crushed sour fermented bamboo shoot (Bastenga), garlic, and spicy green chillies.",
+    "category": "Meat Main Course",
+    "is_vegetarian": false,
+    "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800&auto=format&fit=crop",
+    "ingredients": [
+      "Fresh Pork",
+      "Fermented Wet Bamboo Shoot",
+      "Garlic",
+      "Naga Ginger",
+      "Chilli"
+    ],
+    "taste_profile": "Sour, tangy, juicy, aromatic"
+  },
+  {
+    "id": "anishi-smoked-pork-nagaland",
+    "name": "Anishi with Smoked Pork",
+    "state": "Nagaland",
+    "community": "Ao Naga",
+    "description": "Fermented yam leaves dried into dark patties (Anishi) and slow-cooked with smoked pork and fiery chillies.",
+    "category": "Traditional Meat Stew",
+    "is_vegetarian": false,
+    "image_url": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?q=80&w=800&auto=format&fit=crop",
+    "ingredients": [
+      "Anishi (Dried Fermented Yam Patties)",
+      "Smoked Pork",
+      "Bhut Jolokia",
+      "Ginger",
+      "Salt"
+    ],
+    "taste_profile": "Rich, earthy, deeply concentrated savoury note"
+  },
+  {
+    "id": "galho-nagaland",
+    "name": "Naga Galho",
+    "state": "Nagaland",
+    "community": "Angami Naga",
+    "description": "A wholesome Naga risotto-like rice stew made with rice, seasonal wild forest herbs, bamboo shoot, and smoked pork or seasonal vegetables.",
+    "category": "Rice Stew / Comfort Bowl",
+    "is_vegetarian": false,
+    "image_url": "https://images.unsplash.com/photo-1512058564366-18510be2db19?q=80&w=800&auto=format&fit=crop",
+    "ingredients": [
+      "Local Rice",
+      "Wild Herbs (Gorkha leaf, Coriander)",
+      "Fermented Bamboo Shoot",
+      "Smoked Pork Cuts",
+      "Salt"
+    ],
+    "taste_profile": "Herbaceous, heartwarming, mildly pungent"
+  },
+  {
+    "id": "mui-borok-tripura",
+    "name": "Mui Borok (Berma Stew)",
+    "state": "Tripura",
+    "community": "Tripuri",
+    "description": "The traditional soul food of Tripura: seasonal vegetables boiled with 'Berma', a sun-dried, fermented indigenous fish paste cooked without a single drop of oil.",
+    "category": "Traditional Fish & Veg Stew",
+    "is_vegetarian": false,
+    "image_url": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?q=80&w=800&auto=format&fit=crop",
+    "ingredients": [
+      "Berma (Fermented Fish)",
+      "Potatoes & Seasonal Vegetables",
+      "Green Chillies",
+      "Garlic",
+      "Salt"
+    ],
+    "taste_profile": "Strong umami aroma, spicy, invigorating, oil-free"
+  },
+  {
+    "id": "chakhwi-tripura",
+    "name": "Chakhwi",
+    "state": "Tripura",
+    "community": "Tripuri",
+    "description": "A healthy, traditional alkaline delicacy prepared using bamboo shoots, green papaya, jackfruit seeds, pork cuts, and filtered natural wood ash water (Kharok).",
+    "category": "Alkaline Stew",
+    "is_vegetarian": false,
+    "image_url": "https://images.unsplash.com/photo-1547592180-85f173990554?q=80&w=800&auto=format&fit=crop",
+    "ingredients": [
+      "Fresh Bamboo Shoot",
+      "Green Papaya",
+      "Baking Soda / Kharok",
+      "Pork / Pork Fat",
+      "Ginger"
+    ],
+    "taste_profile": "Earthy, velvety, mild soothing alkaline flavor"
+  },
+  {
+    "id": "bangui-rice-tripura",
+    "name": "Awan Bangui",
+    "state": "Tripura",
+    "community": "Tripuri",
+    "description": "Fragrant sticky rice blended with pork cubes, ginger, and onion, wrapped neatly into a cone using Lairu wild leaves and boiled slowly.",
+    "category": "Leaf-wrapped Sticky Rice",
+    "is_vegetarian": false,
+    "image_url": "https://images.unsplash.com/photo-1512058564366-18510be2db19?q=80&w=800&auto=format&fit=crop",
+    "ingredients": [
+      "Guria Sticky Rice",
+      "Pork Lard & Meat",
+      "Ginger Paste",
+      "Lairu Leaves"
+    ],
+    "taste_profile": "Sticky, infused with wild herbal forest aroma"
+  },
+  {
+    "id": "mosdeng-serma-tripura",
+    "name": "Mosdeng Serma",
+    "state": "Tripura",
+    "community": "Tripuri",
+    "description": "A spicy, tangy tomato and fermented fish chutney roasted on an open flame with garlic and green chillies.",
+    "category": "Chutney / Relish",
+    "is_vegetarian": false,
+    "image_url": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?q=80&w=800&auto=format&fit=crop",
+    "ingredients": [
+      "Berma (Fermented Fish)",
+      "Roasted Tomatoes",
+      "Green Chillies",
+      "Garlic",
+      "Coriander"
+    ],
+    "taste_profile": "Smoky, tangy, fiery, pungent"
+  },
+  {
+    "id": "momos-sikkim",
+    "name": "Sikkimese Steamed Momos",
+    "state": "Sikkim",
+    "community": "Sikkimese / Nepali / Bhutia",
+    "description": "Delicate steamed dumplings stuffed with spiced minced meat or organic Himalayan mountain cheese, served with fiery tomato-dalle chilli chutney.",
+    "category": "Dumplings / Appetizer",
+    "is_vegetarian": false,
+    "image_url": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?q=80&w=800&auto=format&fit=crop",
+    "ingredients": [
+      "Fine Flour Dough",
+      "Minced Meat / Cabbage & Paneer",
+      "Onions",
+      "Garlic",
+      "Dalle Khursani Chilli Chutney"
+    ],
+    "taste_profile": "Juicy, comforting, paired with fiery red chilli kick"
+  },
+  {
+    "id": "gundruk-soup-sikkim",
+    "name": "Gundruk Jhol",
+    "state": "Sikkim",
+    "community": "Nepali",
+    "description": "A healthy soup made from naturally fermented and sun-dried mustard and radish leaves, tempered with mustard oil, tomatoes, and garlic.",
+    "category": "Soup / Fermented Greens",
+    "is_vegetarian": true,
+    "image_url": "https://images.unsplash.com/photo-1547592180-85f173990554?q=80&w=800&auto=format&fit=crop",
+    "ingredients": [
+      "Gundruk (Fermented Dried Greens)",
+      "Mustard Oil",
+      "Tomatoes",
+      "Garlic",
+      "Turmeric"
+    ],
+    "taste_profile": "Sour, tangy, appetizing, digestion-boosting"
+  },
+  {
+    "id": "phagshapa-sikkim",
+    "name": "Phagshapa",
+    "state": "Sikkim",
+    "community": "Bhutia",
+    "description": "A classic Bhutia winter dish of pork fat strips stewed with dried mountain radishes and spicy whole red chillies, cooked without heavy spices.",
+    "category": "Meat Main Course",
+    "is_vegetarian": false,
+    "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800&auto=format&fit=crop",
+    "ingredients": [
+      "Pork Strips",
+      "Dried Radish (Mula)",
+      "Whole Dried Red Chillies",
+      "Ginger",
+      "Salt"
+    ],
+    "taste_profile": "Piquant, rich, winter-warming, savoury"
+  },
+  {
+    "id": "sel-roti-sikkim",
+    "name": "Sel Roti & Aloo Dum",
+    "state": "Sikkim",
+    "community": "Nepali",
+    "description": "A traditional ring-shaped crispy sweet rice bread deep-fried to golden perfection, served with spicy mountain-style potato curry.",
+    "category": "Festive Bread / Breakfast",
+    "is_vegetarian": true,
+    "image_url": "https://images.unsplash.com/photo-1509440159596-0249088772ff?q=80&w=800&auto=format&fit=crop",
+    "ingredients": [
+      "Rice Flour",
+      "Ghee / Butter",
+      "Cardamom & Cloves",
+      "Sugar",
+      "Milk"
+    ],
+    "taste_profile": "Crisp crunchy outer crust, soft sweet inner crumb"
+  }
+]
